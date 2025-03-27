@@ -257,8 +257,8 @@
 
   <!-- Two cards side by side with fixed width -->
   <p>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=idixitjain&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165px" />
-    <img src="https://streak-stats.demolab.com/?user=idixitjain&theme=radical&hide_border=true" alt="GitHub Streak" height="165px" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dxtjain&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165px" />
+    <img src="https://streak-stats.demolab.com/?user=dxtjain&theme=radical&hide_border=true" alt="GitHub Streak" height="165px" />
   </p>
 </div>
 
@@ -266,7 +266,7 @@
 
 <div align="center">
   <!-- Alternative trophy display -->
-  <img src="https://github-trophies.vercel.app/?username=idixitjain&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=dxtjain&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
