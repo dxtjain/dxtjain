@@ -22,7 +22,7 @@
           I'm an AI/ML specialist with expertise in building intelligent systems that solve real business challenges. My focus areas include LLM fine-tuning, RAG systems architecture, computer vision, and full-stack development.
         </p>
         <ul align="left">
-          <li>🔬 Expert in <b>LLM Fine-tuning</b>, <b>RAG Systems</b>, and <b>Enterprise AI Integration</b></li>
+          <li>🔬 Expert in <b>LLM Fine-tuning</b>, <b>RAG Systems</b>, and <b>AI Integration</b></li>
           <li>🚀 Specialized in <b>production-grade ML systems</b> with robust evaluation</li>
           <li>📊 Dedicated to building AI solutions with <b>measurable business impact</b></li>
           <li>🌱 Advocate for leveraging AI in <b>sustainability initiatives</b></li>
@@ -208,80 +208,122 @@
   </p>
 </div>
 
+// ... existing code ...
+
 ## 🏆 Key Achievements
 
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="10">
-    <tr>
-      <td align="center" width="24%">
-        <div style="background-color: #0d1117; border-radius: 10px; padding: 15px; margin: 5px;">
-          <img src="https://img.shields.io/badge/-%E2%86%91%2040%25-22c55e?style=for-the-badge" alt="40% Increase"/>
-          <br/>
-          <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621066f5174692a/images/banner-terminal.svg" width="120" height="120"/>
-          <br/>
-          <h3>LLM Inference Speed</h3>
-          <p>Model quantization & optimization</p>
-        </div>
-      </td>
-      <td align="center" width="24%">
-        <div style="background-color: #0d1117; border-radius: 10px; padding: 15px; margin: 5px;">
-          <img src="https://img.shields.io/badge/-%E2%86%93%2060%25-3b82f6?style=for-the-badge" alt="60% Decrease"/>
-          <br/>
-          <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621066f5174692a/images/banner-terminal.svg" width="120" height="120"/>
-          <br/>
-          <h3>Token Processing Cost</h3>
-          <p>Efficient retrieval architecture</p>
-        </div>
-      </td>
-      <td align="center" width="24%">
-        <div style="background-color: #0d1117; border-radius: 10px; padding: 15px; margin: 5px;">
-          <img src="https://img.shields.io/badge/-%E2%86%91%2095%25-f97316?style=for-the-badge" alt="95% Increase"/>
-          <br/>
-          <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621066f5174692a/images/banner-terminal.svg" width="120" height="120"/>
-          <br/>
-          <h3>RAG System Accuracy</h3>
-          <p>Enhanced retrieval pipelines</p>
-        </div>
-      </td>
-      <td align="center" width="24%">
-        <div style="background-color: #0d1117; border-radius: 10px; padding: 15px; margin: 5px;">
-          <img src="https://img.shields.io/badge/-%E2%86%91%2010x-d946ef?style=for-the-badge" alt="10x Increase"/>
-          <br/>
-          <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621066f5174692a/images/banner-terminal.svg" width="120" height="120"/>
-          <br/>
-          <h3>System Scalability</h3>
-          <p>Microservices architecture</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" width="25%">
+      <table border="0" cellspacing="0" cellpadding="0" style="background-color: #0d1117; border-radius: 8px; width: 100%; height: 250px;">
+        <tr>
+          <td align="center" style="padding-top: 10px;">
+            <div style="display: inline-block; background-color: #22c55e; padding: 4px 12px; border-radius: 4px;">
+              <span style="color: white; font-weight: bold;">↑ 40%</span>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" style="padding: 10px 0;">
+            <img src="https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif" width="120" height="120" alt="LLM Speed">
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <h3 style="margin: 5px 0; color: white;">LLM Inference Speed</h3>
+            <p style="margin: 5px 0; color: #8b949e;">Model quantization & optimization</p>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td align="center" width="25%">
+      <table border="0" cellspacing="0" cellpadding="0" style="background-color: #0d1117; border-radius: 8px; width: 100%; height: 250px;">
+        <tr>
+          <td align="center" style="padding-top: 10px;">
+            <div style="display: inline-block; background-color: #3b82f6; padding: 4px 12px; border-radius: 4px;">
+              <span style="color: white; font-weight: bold;">↓ 60%</span>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" style="padding: 10px 0;">
+            <img src="https://media.tenor.com/9X-I0mcc_OgAAAAC/computing-bigdata.gif" width="120" height="120" alt="Cost Reduction">
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <h3 style="margin: 5px 0; color: white;">Token Processing Cost</h3>
+            <p style="margin: 5px 0; color: #8b949e;">Efficient retrieval architecture</p>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td align="center" width="25%">
+      <table border="0" cellspacing="0" cellpadding="0" style="background-color: #0d1117; border-radius: 8px; width: 100%; height: 250px;">
+        <tr>
+          <td align="center" style="padding-top: 10px;">
+            <div style="display: inline-block; background-color: #f97316; padding: 4px 12px; border-radius: 4px;">
+              <span style="color: white; font-weight: bold;">↑ 95%</span>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" style="padding: 10px 0;">
+            <img src="https://media.tenor.com/LIwk-IvVtCEAAAAC/graph-up.gif" width="120" height="120" alt="RAG Accuracy">
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <h3 style="margin: 5px 0; color: white;">RAG System Accuracy</h3>
+            <p style="margin: 5px 0; color: #8b949e;">Enhanced retrieval pipelines</p>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td align="center" width="25%">
+      <table border="0" cellspacing="0" cellpadding="0" style="background-color: #0d1117; border-radius: 8px; width: 100%; height: 250px;">
+        <tr>
+          <td align="center" style="padding-top: 10px;">
+            <div style="display: inline-block; background-color: #d946ef; padding: 4px 12px; border-radius: 4px;">
+              <span style="color: white; font-weight: bold;">↑ 10x</span>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td align="center" style="padding: 10px 0;">
+            <img src="https://media.tenor.com/zn8iyusePtgAAAAC/this-is-scale-verne-harnish.gif" width="120" height="120" alt="System Scale">
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <h3 style="margin: 5px 0; color: white;">System Scalability</h3>
+            <p style="margin: 5px 0; color: #8b949e;">Microservices architecture</p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=idixitjain&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=idixitjain&theme=radical&hide_border=true" width="48%" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=idixitjain&theme=radical" width="100%" alt="Activity Graph"/>
 </div>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idixitjain&layout=compact&theme=radical&hide_border=true&langs_count=6" width="40%" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=idixitjain&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=idixitjain&theme=radical&hide_border=true" width="49%" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idixitjain&layout=compact&theme=radical&hide_border=true&langs_count=8" width="42%" alt="Top Languages"/>
 </div>
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=idixitjain&theme=radical&row=1&column=6&margin-w=15&no-frame=true" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=idixitjain&theme=radical&row=1&column=7&margin-w=15&no-frame=true" alt="GitHub Trophies"/>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24,30&height=120&section=footer&animation=fadeIn" width="100%"/>
-</div>
+
