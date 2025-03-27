@@ -251,21 +251,19 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=idixitjain&theme=radical" width="100%" alt="GitHub Activity Summary"/>
-</div>
-
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=idixitjain&theme=radical&hide_border=true" width="49%" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=idixitjain&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idixitjain&layout=compact&theme=radical&hide_border=true&langs_count=6" width="40%" alt="Top Languages"/>
+  
+  <div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=idixitjain&theme=radical&hide_border=true" width="49%" alt="GitHub Streak"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=idixitjain&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
+  </div>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idixitjain&layout=compact&theme=radical&hide_border=true&langs_count=6" width="49%" alt="Top Languages" style="margin-top: 20px;"/>
 </div>
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=idixitjain&theme=radical&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=idixitjain&theme=radical&no-frame=true&row=1&column=6&margin-w=15" width="100%" alt="GitHub Trophies"/>
 </div>
 
 <div align="center">
