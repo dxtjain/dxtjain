@@ -208,99 +208,41 @@
   </p>
 </div>
 
-// ... existing code ...
-
 ## 🏆 Key Achievements
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="5">
   <tr>
-    <td align="center" width="25%">
-      <table border="0" cellspacing="0" cellpadding="0" style="background-color: #0d1117; border-radius: 8px; width: 100%; height: 250px;">
-        <tr>
-          <td align="center" style="padding-top: 10px;">
-            <div style="display: inline-block; background-color: #22c55e; padding: 4px 12px; border-radius: 4px;">
-              <span style="color: white; font-weight: bold;">↑ 40%</span>
-            </div>
-          </td>
-        </tr>
-        <tr>
-          <td align="center" style="padding: 10px 0;">
-            <img src="https://media.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif" width="120" height="120" alt="LLM Speed">
-          </td>
-        </tr>
-        <tr>
-          <td align="center">
-            <h3 style="margin: 5px 0; color: white;">LLM Inference Speed</h3>
-            <p style="margin: 5px 0; color: #8b949e;">Model quantization & optimization</p>
-          </td>
-        </tr>
-      </table>
+    <td width="25%" align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Performance" width="65" />
+      <div style="background-color: #22c55e; padding: 5px 10px; border-radius: 4px; display: inline-block; margin: 10px 0;">
+        <span style="color: white; font-weight: bold;">↑ 40%</span>
+      </div>
+      <h3>LLM Inference Speed</h3>
+      <p>Advanced model quantization, distillation, and KV cache optimizations for faster LLM inference</p>
     </td>
-    <td align="center" width="25%">
-      <table border="0" cellspacing="0" cellpadding="0" style="background-color: #0d1117; border-radius: 8px; width: 100%; height: 250px;">
-        <tr>
-          <td align="center" style="padding-top: 10px;">
-            <div style="display: inline-block; background-color: #3b82f6; padding: 4px 12px; border-radius: 4px;">
-              <span style="color: white; font-weight: bold;">↓ 60%</span>
-            </div>
-          </td>
-        </tr>
-        <tr>
-          <td align="center" style="padding: 10px 0;">
-            <img src="https://media.tenor.com/9X-I0mcc_OgAAAAC/computing-bigdata.gif" width="120" height="120" alt="Cost Reduction">
-          </td>
-        </tr>
-        <tr>
-          <td align="center">
-            <h3 style="margin: 5px 0; color: white;">Token Processing Cost</h3>
-            <p style="margin: 5px 0; color: #8b949e;">Efficient retrieval architecture</p>
-          </td>
-        </tr>
-      </table>
+    <td width="25%" align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Decreasing.png" alt="Cost" width="65" />
+      <div style="background-color: #3b82f6; padding: 5px 10px; border-radius: 4px; display: inline-block; margin: 10px 0;">
+        <span style="color: white; font-weight: bold;">↓ 60%</span>
+      </div>
+      <h3>Token Processing Cost</h3>
+      <p>Efficient chunking strategies and embedding compression techniques that significantly reduce API costs</p>
     </td>
-    <td align="center" width="25%">
-      <table border="0" cellspacing="0" cellpadding="0" style="background-color: #0d1117; border-radius: 8px; width: 100%; height: 250px;">
-        <tr>
-          <td align="center" style="padding-top: 10px;">
-            <div style="display: inline-block; background-color: #f97316; padding: 4px 12px; border-radius: 4px;">
-              <span style="color: white; font-weight: bold;">↑ 95%</span>
-            </div>
-          </td>
-        </tr>
-        <tr>
-          <td align="center" style="padding: 10px 0;">
-            <img src="https://media.tenor.com/LIwk-IvVtCEAAAAC/graph-up.gif" width="120" height="120" alt="RAG Accuracy">
-          </td>
-        </tr>
-        <tr>
-          <td align="center">
-            <h3 style="margin: 5px 0; color: white;">RAG System Accuracy</h3>
-            <p style="margin: 5px 0; color: #8b949e;">Enhanced retrieval pipelines</p>
-          </td>
-        </tr>
-      </table>
+    <td width="25%" align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Accuracy" width="65" />
+      <div style="background-color: #f97316; padding: 5px 10px; border-radius: 4px; display: inline-block; margin: 10px 0;">
+        <span style="color: white; font-weight: bold;">↑ 95%</span>
+      </div>
+      <h3>RAG System Accuracy</h3>
+      <p>Hybrid retrieval with multi-vector search and re-ranking pipelines that deliver near-perfect answer accuracy</p>
     </td>
-    <td align="center" width="25%">
-      <table border="0" cellspacing="0" cellpadding="0" style="background-color: #0d1117; border-radius: 8px; width: 100%; height: 250px;">
-        <tr>
-          <td align="center" style="padding-top: 10px;">
-            <div style="display: inline-block; background-color: #d946ef; padding: 4px 12px; border-radius: 4px;">
-              <span style="color: white; font-weight: bold;">↑ 10x</span>
-            </div>
-          </td>
-        </tr>
-        <tr>
-          <td align="center" style="padding: 10px 0;">
-            <img src="https://media.tenor.com/zn8iyusePtgAAAAC/this-is-scale-verne-harnish.gif" width="120" height="120" alt="System Scale">
-          </td>
-        </tr>
-        <tr>
-          <td align="center">
-            <h3 style="margin: 5px 0; color: white;">System Scalability</h3>
-            <p style="margin: 5px 0; color: #8b949e;">Microservices architecture</p>
-          </td>
-        </tr>
-      </table>
+    <td width="25%" align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Scale" width="65" />
+      <div style="background-color: #d946ef; padding: 5px 10px; border-radius: 4px; display: inline-block; margin: 10px 0;">
+        <span style="color: white; font-weight: bold;">↑ 10x</span>
+      </div>
+      <h3>System Scalability</h3>
+      <p>Enterprise-grade microservices architecture handling 100K+ concurrent requests with minimal latency</p>
     </td>
   </tr>
 </table>
@@ -308,22 +250,20 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=idixitjain&theme=radical" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=idixitjain&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=idixitjain&theme=radical&hide_border=true&background=0D1117" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=idixitjain&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=idixitjain&theme=radical&hide_border=true" width="49%" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idixitjain&layout=compact&theme=radical&hide_border=true&langs_count=8" width="42%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idixitjain&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="40%" />
 </div>
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=idixitjain&theme=radical&row=1&column=7&margin-w=15&no-frame=true" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=idixitjain&theme=radical&row=1&column=7&margin-w=15&no-frame=true" alt="GitHub Trophies" />
 </div>
 
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24,30&height=120&section=footer&animation=fadeIn" width="100%" />
+</div>
