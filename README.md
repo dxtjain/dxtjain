@@ -15,9 +15,9 @@
 ## 💫 About Me
 
 <div align="center">
-  <table border="0">
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
-      <td width="60%">
+      <td width="60%" valign="top">
         <p align="left">
           I'm an AI/ML specialist with expertise in building intelligent systems that solve real business challenges. My focus areas include LLM fine-tuning, RAG systems architecture, computer vision, and full-stack development.
         </p>
@@ -28,8 +28,8 @@
           <li>🌱 Advocate for leveraging AI in <b>sustainability initiatives</b></li>
         </ul>
       </td>
-      <td width="40%">
-        <img align="right" alt="Coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="260">
+      <td width="40%" align="center">
+        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="250" alt="Coding">
       </td>
     </tr>
   </table>
@@ -51,7 +51,6 @@
     <img src="https://img.shields.io/badge/Portfolio-4361ee?style=for-the-badge&logo=react&logoColor=white"/>
   </a>
 </div>
-
 
 ## 🔧 Technologies & Tools
 
@@ -97,7 +96,7 @@
 
 ## 🚀 Featured Projects
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" valign="top" style="padding: 15px; border-radius: 8px; background-color: #161b22;">
       <div style="display: flex; align-items: center; margin-bottom: 10px;">
@@ -212,39 +211,47 @@
 ## 🏆 Key Achievements
 
 <div align="center">
-  <table>
+  <table border="0" cellspacing="0" cellpadding="10">
     <tr>
-      <td align="center" width="25%" style="padding: 20px; background: linear-gradient(135deg, #1e2235, #2c3153); border-radius: 16px; margin: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
-        <img src="https://img.shields.io/badge/↑-40%25-22c55e?style=for-the-badge" alt="Performance" />
-        <br/>
-        <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="120" style="margin: 15px 0;" />
-        <br/>
-        <h3 style="color: #22c55e; margin-bottom: 5px;">LLM Inference<br/>Speed</h3>
-        <p style="opacity: 0.8;">Model quantization & optimization</p>
+      <td align="center" width="24%">
+        <div style="background-color: #0d1117; border-radius: 10px; padding: 15px; margin: 5px;">
+          <img src="https://img.shields.io/badge/-%E2%86%91%2040%25-22c55e?style=for-the-badge" alt="40% Increase"/>
+          <br/>
+          <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621066f5174692a/images/banner-terminal.svg" width="120" height="120"/>
+          <br/>
+          <h3>LLM Inference Speed</h3>
+          <p>Model quantization & optimization</p>
+        </div>
       </td>
-      <td align="center" width="25%" style="padding: 20px; background: linear-gradient(135deg, #1e2235, #2c3153); border-radius: 16px; margin: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
-        <img src="https://img.shields.io/badge/↓-60%25-3b82f6?style=for-the-badge" alt="Cost" />
-        <br/>
-        <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="120" style="margin: 15px 0;" />
-        <br/>
-        <h3 style="color: #3b82f6; margin-bottom: 5px;">Token Processing<br/>Cost</h3>
-        <p style="opacity: 0.8;">Efficient retrieval architecture</p>
+      <td align="center" width="24%">
+        <div style="background-color: #0d1117; border-radius: 10px; padding: 15px; margin: 5px;">
+          <img src="https://img.shields.io/badge/-%E2%86%93%2060%25-3b82f6?style=for-the-badge" alt="60% Decrease"/>
+          <br/>
+          <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621066f5174692a/images/banner-terminal.svg" width="120" height="120"/>
+          <br/>
+          <h3>Token Processing Cost</h3>
+          <p>Efficient retrieval architecture</p>
+        </div>
       </td>
-      <td align="center" width="25%" style="padding: 20px; background: linear-gradient(135deg, #1e2235, #2c3153); border-radius: 16px; margin: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
-        <img src="https://img.shields.io/badge/↑-95%25-f97316?style=for-the-badge" alt="Accuracy" />
-        <br/>
-        <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" width="120" style="margin: 15px 0;" />
-        <br/>
-        <h3 style="color: #f97316; margin-bottom: 5px;">RAG System<br/>Accuracy</h3>
-        <p style="opacity: 0.8;">Enhanced retrieval pipelines</p>
+      <td align="center" width="24%">
+        <div style="background-color: #0d1117; border-radius: 10px; padding: 15px; margin: 5px;">
+          <img src="https://img.shields.io/badge/-%E2%86%91%2095%25-f97316?style=for-the-badge" alt="95% Increase"/>
+          <br/>
+          <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621066f5174692a/images/banner-terminal.svg" width="120" height="120"/>
+          <br/>
+          <h3>RAG System Accuracy</h3>
+          <p>Enhanced retrieval pipelines</p>
+        </div>
       </td>
-      <td align="center" width="25%" style="padding: 20px; background: linear-gradient(135deg, #1e2235, #2c3153); border-radius: 16px; margin: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
-        <img src="https://img.shields.io/badge/↑-10x-d946ef?style=for-the-badge" alt="Scale" />
-        <br/>
-        <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="120" style="margin: 15px 0;" />
-        <br/>
-        <h3 style="color: #d946ef; margin-bottom: 5px;">System<br/>Scalability</h3>
-        <p style="opacity: 0.8;">Microservices architecture</p>
+      <td align="center" width="24%">
+        <div style="background-color: #0d1117; border-radius: 10px; padding: 15px; margin: 5px;">
+          <img src="https://img.shields.io/badge/-%E2%86%91%2010x-d946ef?style=for-the-badge" alt="10x Increase"/>
+          <br/>
+          <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621066f5174692a/images/banner-terminal.svg" width="120" height="120"/>
+          <br/>
+          <h3>System Scalability</h3>
+          <p>Microservices architecture</p>
+        </div>
       </td>
     </tr>
   </table>
@@ -253,23 +260,25 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <a href="https://github.com/idixitjain">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=idixitjain&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=idixitjain&theme=radical&hide_border=true" width="48%" alt="GitHub Streak"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=idixitjain&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=idixitjain&theme=radical&hide_border=true" width="48%" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/idixitjain">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=idixitjain&layout=compact&theme=radical&hide_border=true&langs_count=6" width="40%" alt="Top Languages"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idixitjain&layout=compact&theme=radical&hide_border=true&langs_count=6" width="40%" />
   </a>
 </div>
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <a href="https://github.com/idixitjain">
-    <img src="https://github-profile-trophy.vercel.app/?username=idixitjain&theme=radical&row=1&column=6&margin-w=15&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=idixitjain&theme=radical&row=1&column=6&margin-w=15&no-frame=true" />
   </a>
 </div>
 
