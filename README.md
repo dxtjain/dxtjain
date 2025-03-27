@@ -250,20 +250,23 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=idixitjain&theme=radical" width="100%" alt="GitHub Activity Summary"/>
+  <!-- Profile details card -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=idixitjain&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="355px" />
   
-  <div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=idixitjain&theme=radical&hide_border=true" width="49%" alt="GitHub Streak"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=idixitjain&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
-  </div>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idixitjain&layout=compact&theme=radical&hide_border=true&langs_count=6" width="49%" alt="Top Languages" style="margin-top: 20px;"/>
+  <br><br>
+
+  <!-- Two cards side by side with fixed width -->
+  <p>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=idixitjain&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165px" />
+    <img src="https://streak-stats.demolab.com/?user=idixitjain&theme=radical&hide_border=true" alt="GitHub Streak" height="165px" />
+  </p>
 </div>
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=idixitjain&theme=radical&no-frame=true&row=1&column=6&margin-w=15" width="100%" alt="GitHub Trophies"/>
+  <!-- Alternative trophy display -->
+  <img src="https://github-trophies.vercel.app/?username=idixitjain&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
