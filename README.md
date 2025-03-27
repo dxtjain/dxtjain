@@ -250,20 +250,23 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=idixitjain&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=idixitjain&theme=radical&hide_border=true&background=0D1117" width="49%" />
+  <a href="https://github.com/idixitjain">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=idixitjain&theme=radical" width="32%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=idixitjain&theme=radical" width="32%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=idixitjain&theme=radical" width="32%" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idixitjain&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="40%" />
+  <a href="https://github.com/idixitjain">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=idixitjain&theme=radical" width="100%" />
+  </a>
 </div>
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=idixitjain&theme=radical&row=1&column=7&margin-w=15&no-frame=true" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24,30&height=120&section=footer&animation=fadeIn" width="100%" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=idixitjain&theme=radical&row=1&column=7&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
 </div>
