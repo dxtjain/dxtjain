@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+%26+ML+Engineer;LLM+Architect;RAG+Systems+Expert;GenAI+Specialist;Full+Stack+Developer" alt="Typing SVG" />
   
   <p align="right">
-    <img src="https://visitcount.itsvg.in/api?id=idixitjain&label=Profile%20views&color=4c3c78&style=plastic" alt="idixitjain" />
+    <img src="https://komarev.com/ghpvc/?username=idixitjain&label=Profile%20views&color=4c3c78&style=flat" alt="Profile Views" />
   </p>
 </div>
 
@@ -29,7 +29,7 @@
         </ul>
       </td>
       <td width="40%">
-        <img align="right" alt="Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVnN3o0ZTlwcGU5Z3pybnY5dXlub3o0YTJsanZ6bGlsNDZ3eGd6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="260">
+        <img align="right" alt="Coding" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="260">
       </td>
     </tr>
   </table>
@@ -211,54 +211,66 @@
 
 ## 🏆 Key Achievements
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Performance" width="65" />
-      <h3>40% ↑</h3>
-      <p><b>LLM Inference Speed</b></p>
-      <p>Model quantization & optimization</p>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Decreasing.png" alt="Cost" width="65" />
-      <h3>60% ↓</h3>
-      <p><b>Token Processing Cost</b></p>
-      <p>Efficient retrieval architecture</p>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Accuracy" width="65" />
-      <h3>95% ↑</h3>
-      <p><b>RAG System Accuracy</b></p>
-      <p>Enhanced retrieval pipelines</p>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Scale" width="65" />
-      <h3>10x ↑</h3>
-      <p><b>System Scalability</b></p>
-      <p>Microservices architecture</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%" style="padding: 20px; background: linear-gradient(135deg, #1e2235, #2c3153); border-radius: 16px; margin: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+        <img src="https://img.shields.io/badge/↑-40%25-22c55e?style=for-the-badge" alt="Performance" />
+        <br/>
+        <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="120" style="margin: 15px 0;" />
+        <br/>
+        <h3 style="color: #22c55e; margin-bottom: 5px;">LLM Inference<br/>Speed</h3>
+        <p style="opacity: 0.8;">Model quantization & optimization</p>
+      </td>
+      <td align="center" width="25%" style="padding: 20px; background: linear-gradient(135deg, #1e2235, #2c3153); border-radius: 16px; margin: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+        <img src="https://img.shields.io/badge/↓-60%25-3b82f6?style=for-the-badge" alt="Cost" />
+        <br/>
+        <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="120" style="margin: 15px 0;" />
+        <br/>
+        <h3 style="color: #3b82f6; margin-bottom: 5px;">Token Processing<br/>Cost</h3>
+        <p style="opacity: 0.8;">Efficient retrieval architecture</p>
+      </td>
+      <td align="center" width="25%" style="padding: 20px; background: linear-gradient(135deg, #1e2235, #2c3153); border-radius: 16px; margin: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+        <img src="https://img.shields.io/badge/↑-95%25-f97316?style=for-the-badge" alt="Accuracy" />
+        <br/>
+        <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" width="120" style="margin: 15px 0;" />
+        <br/>
+        <h3 style="color: #f97316; margin-bottom: 5px;">RAG System<br/>Accuracy</h3>
+        <p style="opacity: 0.8;">Enhanced retrieval pipelines</p>
+      </td>
+      <td align="center" width="25%" style="padding: 20px; background: linear-gradient(135deg, #1e2235, #2c3153); border-radius: 16px; margin: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+        <img src="https://img.shields.io/badge/↑-10x-d946ef?style=for-the-badge" alt="Scale" />
+        <br/>
+        <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="120" style="margin: 15px 0;" />
+        <br/>
+        <h3 style="color: #d946ef; margin-bottom: 5px;">System<br/>Scalability</h3>
+        <p style="opacity: 0.8;">Microservices architecture</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=idixitjain&theme=radical" width="100%" alt="GitHub Activity Summary"/>
+  <a href="https://github.com/idixitjain">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=idixitjain&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=idixitjain&theme=radical&hide_border=true" width="48%" alt="GitHub Streak"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=idixitjain&theme=radical&hide_border=true" width="49%" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=idixitjain&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idixitjain&layout=compact&theme=radical&hide_border=true&langs_count=6" width="40%" alt="Top Languages"/>
+  <a href="https://github.com/idixitjain">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=idixitjain&layout=compact&theme=radical&hide_border=true&langs_count=6" width="40%" alt="Top Languages"/>
+  </a>
 </div>
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=idixitjain&theme=radical&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies"/>
+  <a href="https://github.com/idixitjain">
+    <img src="https://github-profile-trophy.vercel.app/?username=idixitjain&theme=radical&row=1&column=6&margin-w=15&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
+  </a>
 </div>
 
 <div align="center">
