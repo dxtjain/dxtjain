@@ -96,100 +96,93 @@
 
 ## 🚀 Featured Projects
 
-<table border="0" cellspacing="0" cellpadding="0">
+<div align="center">
+
+<!-- Project Cards Row 1 -->
+<table>
   <tr>
-    <td width="50%" valign="top" style="padding: 15px; border-radius: 8px; background-color: #161b22;">
-      <div style="display: flex; align-items: center; margin-bottom: 10px;">
-        <div style="background-color: #000000; border-radius: 50%; width: 45px; height: 45px; display: flex; align-items: center; justify-content: center; margin-right: 12px;">
-          <span style="font-size: 45px;">🏋️</span>
-        </div>
-        <h3 style="margin: 0; display: inline-block;">MuscleAI</h3>
-        <div style="margin-left: auto;">
-          <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=flat-square" alt="Status"/>
-        </div>
-      </div>
-      <p><b>AI-powered fitness assistant with real-time form guidance</b></p>
-      <div>
-        <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Computer_Vision-0078D7?style=flat-square"/>
-        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square"/>
-      </div>
-      <ul>
-        <li>87% accuracy in posture detection</li>
-        <li>40% reduction in workout injury risk</li>
-        <li>35% increase in user engagement</li>
+    <!-- MuscleAI Card -->
+    <td align="center" width="48%" style="vertical-align:top;">
+      <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-fitness-gym-flaticons-flat-flat-icons-2.png" width="60" alt="MuscleAI Icon"/>
+      <br>
+      <b style="font-size:1.3em;">🏋️ MuscleAI</b>
+      <br>
+      <span style="color:#4CAF50; font-weight:bold;">AI-powered fitness assistant</span>
+      <br>
+      <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Computer_Vision-0078D7?style=flat-square"/>
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square"/>
+      <ul align="left">
+        <li><b>87%</b> accuracy in posture detection</li>
+        <li><b>40%</b> reduction in injury risk</li>
+        <li><b>35%</b> increase in engagement</li>
       </ul>
+      <a href="#"><img src="https://img.shields.io/badge/Status-Active-4CAF50?style=for-the-badge" alt="Status"/></a>
     </td>
-    <td width="50%" valign="top" style="padding: 15px; border-radius: 8px; background-color: #161b22;">
-      <div style="display: flex; align-items: center; margin-bottom: 10px;">
-        <div style="background-color: #000000; border-radius: 50%; width: 45px; height: 45px; display: flex; align-items: center; justify-content: center; margin-right: 12px;">
-          <span style="font-size: 45px;">📄</span>
-        </div>
-        <h3 style="margin: 0; display: inline-block;">ResuMatch AI</h3>
-        <div style="margin-left: auto;">
-          <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=flat-square" alt="Status"/>
-        </div>
-      </div>
-      <p><b>Advanced resume-job matching system powered by LLMs</b></p>
-      <div>
-        <img src="https://img.shields.io/badge/LLM_Fine--tuning-FF9900?style=flat-square"/>
-        <img src="https://img.shields.io/badge/RAG-7952B3?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Vector_DB-4B32C3?style=flat-square"/>
-      </div>
-      <ul>
-        <li>92% relevance in skill-job matching</li>
-        <li>Sub-200ms query response times</li>
-        <li>65% increase in hiring efficiency</li>
+    <!-- ResuMatch AI Card -->
+    <td align="center" width="48%" style="vertical-align:top;">
+      <img src="https://img.icons8.com/ios-filled/50/000000/resume-website.png" width="60" alt="ResuMatch Icon"/>
+      <br>
+      <b style="font-size:1.3em;">📄 ResuMatch AI</b>
+      <br>
+      <span style="color:#FF9900; font-weight:bold;">LLM-powered resume-job matcher</span>
+      <br>
+      <img src="https://img.shields.io/badge/LLM_Fine--tuning-FF9900?style=flat-square"/>
+      <img src="https://img.shields.io/badge/RAG-7952B3?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Vector_DB-4B32C3?style=flat-square"/>
+      <ul align="left">
+        <li><b>92%</b> skill-job match relevance</li>
+        <li>Sub-200ms query response</li>
+        <li><b>65%</b> hiring efficiency boost</li>
       </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" style="padding: 15px; border-radius: 8px; background-color: #161b22;">
-      <div style="display: flex; align-items: center; margin-bottom: 10px;">
-        <div style="background-color: #000000; border-radius: 50%; width: 45px; height: 45px; display: flex; align-items: center; justify-content: center; margin-right: 12px;">
-          <span style="font-size: 45px;">📰</span>
-        </div>
-        <h3 style="margin: 0; display: inline-block;">Headline-Sentiment</h3>
-        <div style="margin-left: auto;">
-          <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=flat-square" alt="Status"/>
-        </div>
-      </div>
-      <p><b>News sentiment analysis platform with real-time insights</b></p>
-      <div>
-        <img src="https://img.shields.io/badge/NLP-5A67D8?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Transformers-FF4F8B?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Data_Viz-FFBE0B?style=flat-square"/>
-      </div>
-      <ul>
-        <li>Processed 5,000+ news headlines</li>
-        <li>Interactive sentiment dashboard</li>
-        <li>Real-time streaming data pipeline</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" style="padding: 15px; border-radius: 8px; background-color: #161b22;">
-      <div style="display: flex; align-items: center; margin-bottom: 10px;">
-        <div style="background-color: #000000; border-radius: 50%; width: 45px; height: 45px; display: flex; align-items: center; justify-content: center; margin-right: 12px;">
-          <span style="font-size: 45px;">🌳</span>
-        </div>
-        <h3 style="margin: 0; display: inline-block;">EcoVision AI</h3>
-        <div style="margin-left: auto;">
-          <img src="https://img.shields.io/badge/Status-Coming_Soon-FFC107?style=flat-square" alt="Status"/>
-        </div>
-      </div>
-      <p><b>Environmental monitoring system using satellite imagery</b></p>
-      <div>
-        <img src="https://img.shields.io/badge/Satellite_Imagery-4CAF50?style=flat-square"/>
-        <img src="https://img.shields.io/badge/GAN-FF6B6B?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Time_Series-2196F3?style=flat-square"/>
-      </div>
-      <ul>
-        <li>Track environmental changes with CV</li>
-        <li>Predictive environmental models</li>
-        <li>94% accuracy in change detection</li>
-      </ul>
+      <a href="#"><img src="https://img.shields.io/badge/Status-Active-4CAF50?style=for-the-badge" alt="Status"/></a>
     </td>
   </tr>
 </table>
+
+<!-- Project Cards Row 2 -->
+<table>
+  <tr>
+    <!-- Headline-Sentiment Card -->
+    <td align="center" width="48%" style="vertical-align:top;">
+      <img src="https://img.icons8.com/ios-filled/50/000000/news.png" width="60" alt="Headline Sentiment Icon"/>
+      <br>
+      <b style="font-size:1.3em;">📰 Headline-Sentiment</b>
+      <br>
+      <span style="color:#FF4F8B; font-weight:bold;">Real-time news sentiment analysis</span>
+      <br>
+      <img src="https://img.shields.io/badge/NLP-5A67D8?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Transformers-FF4F8B?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Data_Viz-FFBE0B?style=flat-square"/>
+      <ul align="left">
+        <li>5,000+ headlines processed</li>
+        <li>Interactive sentiment dashboard</li>
+        <li>Streaming data pipeline</li>
+      </ul>
+      <a href="#"><img src="https://img.shields.io/badge/Status-Active-4CAF50?style=for-the-badge" alt="Status"/></a>
+    </td>
+    <!-- EcoVision AI Card -->
+    <td align="center" width="48%" style="vertical-align:top;">
+      <img src="https://img.icons8.com/color/48/000000/forest.png" width="60" alt="EcoVision AI Icon"/>
+      <br>
+      <b style="font-size:1.3em;">🌳 EcoVision AI</b>
+      <br>
+      <span style="color:#22c55e; font-weight:bold;">Satellite-based environmental monitoring</span>
+      <br>
+      <img src="https://img.shields.io/badge/Satellite_Imagery-4CAF50?style=flat-square"/>
+      <img src="https://img.shields.io/badge/GAN-FF6B6B?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Time_Series-2196F3?style=flat-square"/>
+      <ul align="left">
+        <li>CV-based environmental change tracking</li>
+        <li>Predictive models for sustainability</li>
+        <li><b>94%</b> accuracy in change detection</li>
+      </ul>
+      <a href="#"><img src="https://img.shields.io/badge/Status-Coming_Soon-FFC107?style=for-the-badge" alt="Status"/></a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ## 🔍 Recent Focus Areas
 
