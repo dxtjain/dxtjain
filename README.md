@@ -94,62 +94,86 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-## 🚀 Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px"> Featured Projects
 
-<!-- PROJECT 1 -->
+<!-- Animated divider -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🏋️_MuscleAI-AI--powered_fitness_assistant-4CAF50?style=for-the-badge&labelColor=black" alt="MuscleAI"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 </p>
 
+<!-- Project cards with hover effect -->
+<div align="center">
 <table>
   <tr>
-    <td width="33%" align="center">
-      <h3>🏋️ MuscleAI</h3>
-      <p>AI-powered fitness assistant</p>
-      <p>
-        <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Computer_Vision-0078D7?style=flat-square"/>
-        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square"/>
-      </p>
-      <ul>
-        <li>📊 <b>87%</b> accuracy in posture detection</li>
-        <li>🛡️ <b>40%</b> reduction in injury risk</li>
-        <li>📱 <b>35%</b> increase in engagement</li>
+    <td align="center" width="33%">
+      <a href="#muscleai">
+        <img src="https://img.shields.io/badge/🏋️_MuscleAI-AI--powered_fitness_assistant-4CAF50?style=for-the-badge&labelColor=black" alt="MuscleAI"/>
+      </a>
+      <br><br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Lifting%20Weights.png" width="70px" alt="Fitness"/>
+      <br><br>
+      <div>
+        <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&labelColor=black"/>
+        <img src="https://img.shields.io/badge/Computer_Vision-0078D7?style=flat-square&labelColor=black"/>
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&labelColor=black"/>
+      </div>
+      <br>
+      <ul align="left">
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="20px"> <b>87%</b> accuracy in posture detection</li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="20px"> <b>40%</b> reduction in injury risk</li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="20px"> <b>35%</b> increase in engagement</li>
       </ul>
-      <p><img src="https://img.shields.io/badge/Status-Active-4CAF50?style=flat-square"/></p>
+      <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=for-the-badge&labelColor=black"/>
     </td>
-    <td width="33%" align="center">
-      <h3>📄 ResuMatch AI</h3>
-      <p>LLM-powered resume-job matcher</p>
-      <p>
-        <img src="https://img.shields.io/badge/LLM_Fine--tuning-FF9900?style=flat-square"/>
-        <img src="https://img.shields.io/badge/RAG-7952B3?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Vector_DB-4B32C3?style=flat-square"/>
-      </p>
-      <ul>
-        <li>🎯 <b>92%</b> skill-job match relevance</li>
-        <li>⚡ <b>Sub-200ms</b> query response</li>
-        <li>📈 <b>65%</b> hiring efficiency boost</li>
+    <td align="center" width="33%">
+      <a href="#resumatch">
+        <img src="https://img.shields.io/badge/📄_ResuMatch_AI-LLM--powered_resume--job_matcher-FF9900?style=for-the-badge&labelColor=black" alt="ResuMatch AI"/>
+      </a>
+      <br><br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" width="70px" alt="Resume"/>
+      <br><br>
+      <div>
+        <img src="https://img.shields.io/badge/LLM_Fine--tuning-FF9900?style=flat-square&labelColor=black"/>
+        <img src="https://img.shields.io/badge/RAG-7952B3?style=flat-square&labelColor=black"/>
+        <img src="https://img.shields.io/badge/Vector_DB-4B32C3?style=flat-square&labelColor=black"/>
+      </div>
+      <br>
+      <ul align="left">
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="20px"> <b>92%</b> skill-job match relevance</li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="20px"> <b>Sub-200ms</b> query response</li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="20px"> <b>65%</b> hiring efficiency boost</li>
       </ul>
-      <p><img src="https://img.shields.io/badge/Status-Active-4CAF50?style=flat-square"/></p>
+      <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=for-the-badge&labelColor=black"/>
     </td>
-    <td width="33%" align="center">
-      <h3>📰 Headline-Sentiment</h3>
-      <p>Real-time news sentiment analysis</p>
-      <p>
-        <img src="https://img.shields.io/badge/NLP-5A67D8?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Transformers-FF4F8B?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Data_Viz-FFBE0B?style=flat-square"/>
-      </p>
-      <ul>
-        <li>📊 <b>5,000+</b> headlines processed</li>
-        <li>📊 <b>Interactive</b> sentiment dashboard</li>
-        <li>🔄 <b>Streaming</b> data pipeline</li>
+    <td align="center" width="33%">
+      <a href="#headline">
+        <img src="https://img.shields.io/badge/📰_Headline--Sentiment-Real--time_news_sentiment_analysis-FF4F8B?style=for-the-badge&labelColor=black" alt="Headline-Sentiment"/>
+      </a>
+      <br><br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Newspaper.png" width="70px" alt="News"/>
+      <br><br>
+      <div>
+        <img src="https://img.shields.io/badge/NLP-5A67D8?style=flat-square&labelColor=black"/>
+        <img src="https://img.shields.io/badge/Transformers-FF4F8B?style=flat-square&labelColor=black"/>
+        <img src="https://img.shields.io/badge/Data_Viz-FFBE0B?style=flat-square&labelColor=black"/>
+      </div>
+      <br>
+      <ul align="left">
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="20px"> <b>5,000+</b> headlines processed</li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="20px"> <b>Interactive</b> sentiment dashboard</li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Repeat%20Button.png" width="20px"> <b>Streaming</b> data pipeline</li>
       </ul>
-      <p><img src="https://img.shields.io/badge/Status-Active-4CAF50?style=flat-square"/></p>
+      <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=for-the-badge&labelColor=black"/>
     </td>
   </tr>
 </table>
+</div>
+
+<!-- Animated bottom divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+</p>
+
 
 ## 🔍 Recent Focus Areas
 
