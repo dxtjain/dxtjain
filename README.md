@@ -97,125 +97,75 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <div style="position:relative; margin-bottom:60px;">
-    <!-- Animated Background Element -->
-    <div style="position:absolute; top:-20px; right:-20px; width:150px; height:150px; background:linear-gradient(45deg, #4CAF5033, #FF990033); border-radius:50%; filter:blur(40px); z-index:-1; animation:float 6s ease-in-out infinite;"></div>
-    
-    <!-- Project Cards Container -->
-    <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; margin-top:30px;">
-      
-      <!-- MuscleAI Card -->
-      <div style="width:300px; background:#0d1117; border-radius:12px; overflow:hidden; box-shadow:0 4px 20px rgba(0,0,0,0.2); transition:transform 0.3s, box-shadow 0.3s; position:relative; border:1px solid #30363d;">
-        <!-- Top Color Bar -->
-        <div style="height:8px; background:linear-gradient(90deg, #4CAF50, #00FFFF);"></div>
-        
-        <!-- Card Content -->
-        <div style="padding:20px;">
-          <div style="display:flex; align-items:center; margin-bottom:15px;">
-            <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-fitness-gym-flaticons-flat-flat-icons-2.png" width="40" style="margin-right:15px;" />
-            <div>
-              <h3 style="margin:0; font-size:18px;">🏋️ MuscleAI</h3>
-              <span style="font-size:12px; background:#4CAF50; color:white; padding:2px 8px; border-radius:10px; display:inline-block; margin-top:4px;">ACTIVE</span>
-            </div>
-          </div>
-          
-          <p style="color:#4CAF50; font-weight:bold; margin:0 0 10px 0; font-size:14px;">AI-powered fitness assistant</p>
-          
-          <div style="margin:10px 0;">
-            <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square"/>
-            <img src="https://img.shields.io/badge/Computer_Vision-0078D7?style=flat-square"/>
-            <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square"/>
-          </div>
-          
-          <ul style="text-align:left; padding-left:20px; margin:15px 0; font-size:14px;">
-            <li><b>87%</b> accuracy in posture detection</li>
-            <li><b>40%</b> reduction in injury risk</li>
-            <li><b>35%</b> increase in engagement</li>
-          </ul>
-        </div>
-      </div>
-      
-      <!-- ResuMatch AI Card -->
-      <div style="width:300px; background:#0d1117; border-radius:12px; overflow:hidden; box-shadow:0 4px 20px rgba(0,0,0,0.2); transition:transform 0.3s, box-shadow 0.3s; position:relative; border:1px solid #30363d;">
-        <!-- Top Color Bar -->
-        <div style="height:8px; background:linear-gradient(90deg, #FF9900, #FF5722);"></div>
-        
-        <!-- Card Content -->
-        <div style="padding:20px;">
-          <div style="display:flex; align-items:center; margin-bottom:15px;">
-            <img src="https://img.icons8.com/ios-filled/50/000000/resume-website.png" width="40" style="margin-right:15px;" />
-            <div>
-              <h3 style="margin:0; font-size:18px;">📄 ResuMatch AI</h3>
-              <span style="font-size:12px; background:#4CAF50; color:white; padding:2px 8px; border-radius:10px; display:inline-block; margin-top:4px;">ACTIVE</span>
-            </div>
-          </div>
-          
-          <p style="color:#FF9900; font-weight:bold; margin:0 0 10px 0; font-size:14px;">LLM-powered resume-job matcher</p>
-          
-          <div style="margin:10px 0;">
-            <img src="https://img.shields.io/badge/LLM_Fine--tuning-FF9900?style=flat-square"/>
-            <img src="https://img.shields.io/badge/RAG-7952B3?style=flat-square"/>
-            <img src="https://img.shields.io/badge/Vector_DB-4B32C3?style=flat-square"/>
-          </div>
-          
-          <ul style="text-align:left; padding-left:20px; margin:15px 0; font-size:14px;">
-            <li><b>92%</b> skill-job match relevance</li>
-            <li>Sub-200ms query response</li>
-            <li><b>65%</b> hiring efficiency boost</li>
-          </ul>
-        </div>
-      </div>
-      
-      <!-- Headline-Sentiment Card -->
-      <div style="width:300px; background:#0d1117; border-radius:12px; overflow:hidden; box-shadow:0 4px 20px rgba(0,0,0,0.2); transition:transform 0.3s, box-shadow 0.3s; position:relative; border:1px solid #30363d;">
-        <!-- Top Color Bar -->
-        <div style="height:8px; background:linear-gradient(90deg, #FF4F8B, #BD34FE);"></div>
-        
-        <!-- Card Content -->
-        <div style="padding:20px;">
-          <div style="display:flex; align-items:center; margin-bottom:15px;">
-            <img src="https://img.icons8.com/ios-filled/50/000000/news.png" width="40" style="margin-right:15px;" />
-            <div>
-              <h3 style="margin:0; font-size:18px;">📰 Headline-Sentiment</h3>
-              <span style="font-size:12px; background:#4CAF50; color:white; padding:2px 8px; border-radius:10px; display:inline-block; margin-top:4px;">ACTIVE</span>
-            </div>
-          </div>
-          
-          <p style="color:#FF4F8B; font-weight:bold; margin:0 0 10px 0; font-size:14px;">Real-time news sentiment analysis</p>
-          
-          <div style="margin:10px 0;">
-            <img src="https://img.shields.io/badge/NLP-5A67D8?style=flat-square"/>
-            <img src="https://img.shields.io/badge/Transformers-FF4F8B?style=flat-square"/>
-            <img src="https://img.shields.io/badge/Data_Viz-FFBE0B?style=flat-square"/>
-          </div>
-          
-          <ul style="text-align:left; padding-left:20px; margin:15px 0; font-size:14px;">
-            <li>5,000+ headlines processed</li>
-            <li>Interactive sentiment dashboard</li>
-            <li>Streaming data pipeline</li>
-          </ul>
-        </div>
-      </div>
-    </div>
+  <br>
+  <!-- Project Cards Row -->
+  <div align="center">
+    <!-- MuscleAI -->
+    <a href="#" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/🏋️_MuscleAI-AI--powered_fitness_assistant-4CAF50?style=for-the-badge&labelColor=black" alt="MuscleAI"/>
+    </a>&nbsp;
+    <!-- ResuMatch -->
+    <a href="#" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/📄_ResuMatch_AI-LLM--powered_resume--job_matcher-FF9900?style=for-the-badge&labelColor=black" alt="ResuMatch AI"/>
+    </a>&nbsp;
+    <!-- Headline-Sentiment -->
+    <a href="#" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/📰_Headline--Sentiment-Real--time_news_sentiment_analysis-FF4F8B?style=for-the-badge&labelColor=black" alt="Headline-Sentiment"/>
+    </a>
   </div>
+  <br>
+  
+  <!-- Project Cards -->
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-fitness-gym-flaticons-flat-flat-icons-2.png" width="60" />
+        <h3>🏋️ MuscleAI</h3>
+        <p><img src="https://img.shields.io/badge/Status-Active-4CAF50?style=flat-square" /></p>
+        <div>
+          <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square"/>
+          <img src="https://img.shields.io/badge/Computer_Vision-0078D7?style=flat-square"/>
+          <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square"/>
+        </div>
+        <ul align="left">
+          <li><b>87%</b> accuracy in posture detection</li>
+          <li><b>40%</b> reduction in injury risk</li>
+          <li><b>35%</b> increase in engagement</li>
+        </ul>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/ios-filled/50/000000/resume-website.png" width="60" />
+        <h3>📄 ResuMatch AI</h3>
+        <p><img src="https://img.shields.io/badge/Status-Active-4CAF50?style=flat-square" /></p>
+        <div>
+          <img src="https://img.shields.io/badge/LLM_Fine--tuning-FF9900?style=flat-square"/>
+          <img src="https://img.shields.io/badge/RAG-7952B3?style=flat-square"/>
+          <img src="https://img.shields.io/badge/Vector_DB-4B32C3?style=flat-square"/>
+        </div>
+        <ul align="left">
+          <li><b>92%</b> skill-job match relevance</li>
+          <li>Sub-200ms query response</li>
+          <li><b>65%</b> hiring efficiency boost</li>
+        </ul>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.icons8.com/ios-filled/50/000000/news.png" width="60" />
+        <h3>📰 Headline-Sentiment</h3>
+        <p><img src="https://img.shields.io/badge/Status-Active-4CAF50?style=flat-square" /></p>
+        <div>
+          <img src="https://img.shields.io/badge/NLP-5A67D8?style=flat-square"/>
+          <img src="https://img.shields.io/badge/Transformers-FF4F8B?style=flat-square"/>
+          <img src="https://img.shields.io/badge/Data_Viz-FFBE0B?style=flat-square"/>
+        </div>
+        <ul align="left">
+          <li>5,000+ headlines processed</li>
+          <li>Interactive sentiment dashboard</li>
+          <li>Streaming data pipeline</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
-
-<style>
-@keyframes float {
-  0% { transform: translatey(0px); }
-  50% { transform: translatey(-20px); }
-  100% { transform: translatey(0px); }
-}
-
-/* Hover effects for cards */
-div[style*="width:300px"] {
-  transition: transform 0.3s, box-shadow 0.3s;
-}
-div[style*="width:300px"]:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 10px 25px rgba(0,0,0,0.3);
-}
-</style>
 
 ## 🔍 Recent Focus Areas
 
