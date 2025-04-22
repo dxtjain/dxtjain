@@ -97,74 +97,80 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <br>
-  <!-- Project Cards Row -->
-  <div align="center">
-    <!-- MuscleAI -->
-    <a href="#" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/🏋️_MuscleAI-AI--powered_fitness_assistant-4CAF50?style=for-the-badge&labelColor=black" alt="MuscleAI"/>
-    </a>&nbsp;
-    <!-- ResuMatch -->
-    <a href="#" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/📄_ResuMatch_AI-LLM--powered_resume--job_matcher-FF9900?style=for-the-badge&labelColor=black" alt="ResuMatch AI"/>
-    </a>&nbsp;
-    <!-- Headline-Sentiment -->
-    <a href="#" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/📰_Headline--Sentiment-Real--time_news_sentiment_analysis-FF4F8B?style=for-the-badge&labelColor=black" alt="Headline-Sentiment"/>
-    </a>
-  </div>
-  <br>
-  
-  <!-- Project Cards -->
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-fitness-gym-flaticons-flat-flat-icons-2.png" width="60" />
-        <h3>🏋️ MuscleAI</h3>
-        <p><img src="https://img.shields.io/badge/Status-Active-4CAF50?style=flat-square" /></p>
-        <div>
-          <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square"/>
-          <img src="https://img.shields.io/badge/Computer_Vision-0078D7?style=flat-square"/>
-          <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square"/>
-        </div>
+  <!-- Project Highlights Banner -->
+  <a href="#muscleai"><img src="https://img.shields.io/badge/🏋️_MuscleAI-AI--powered_fitness_assistant-4CAF50?style=for-the-badge&labelColor=030303" alt="MuscleAI"/></a>
+  <a href="#resumatchai"><img src="https://img.shields.io/badge/📄_ResuMatch_AI-LLM--powered_resume--job_matcher-FF9900?style=for-the-badge&labelColor=030303" alt="ResuMatch AI"/></a>
+  <a href="#headlinesentiment"><img src="https://img.shields.io/badge/📰_Headline--Sentiment-Real--time_news_sentiment_analysis-FF4F8B?style=for-the-badge&labelColor=030303" alt="Headline-Sentiment"/></a>
+</div>
+
+<br>
+
+<!-- Project Showcase with Custom Borders -->
+<div align="center">
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <a name="muscleai"></a>
+      <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-fitness-gym-flaticons-flat-flat-icons-2.png" width="60"/>
+      <h3>🏋️ MuscleAI</h3>
+      <div>
+        <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&labelColor=black"/>
+        <img src="https://img.shields.io/badge/Computer_Vision-0078D7?style=flat-square&labelColor=black"/>
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&labelColor=black"/>
+      </div>
+      <details>
+        <summary><b>View Project Details</b></summary>
         <ul align="left">
           <li><b>87%</b> accuracy in posture detection</li>
           <li><b>40%</b> reduction in injury risk</li>
           <li><b>35%</b> increase in engagement</li>
         </ul>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/ios-filled/50/000000/resume-website.png" width="60" />
-        <h3>📄 ResuMatch AI</h3>
-        <p><img src="https://img.shields.io/badge/Status-Active-4CAF50?style=flat-square" /></p>
-        <div>
-          <img src="https://img.shields.io/badge/LLM_Fine--tuning-FF9900?style=flat-square"/>
-          <img src="https://img.shields.io/badge/RAG-7952B3?style=flat-square"/>
-          <img src="https://img.shields.io/badge/Vector_DB-4B32C3?style=flat-square"/>
-        </div>
+      </details>
+      <br>
+      <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=flat-square&labelColor=black"/>
+    </td>
+    <td width="33%" align="center">
+      <a name="resumatchai"></a>
+      <img src="https://img.icons8.com/ios-filled/50/000000/resume-website.png" width="60"/>
+      <h3>📄 ResuMatch AI</h3>
+      <div>
+        <img src="https://img.shields.io/badge/LLM_Fine--tuning-FF9900?style=flat-square&labelColor=black"/>
+        <img src="https://img.shields.io/badge/RAG-7952B3?style=flat-square&labelColor=black"/>
+        <img src="https://img.shields.io/badge/Vector_DB-4B32C3?style=flat-square&labelColor=black"/>
+      </div>
+      <details>
+        <summary><b>View Project Details</b></summary>
         <ul align="left">
           <li><b>92%</b> skill-job match relevance</li>
           <li>Sub-200ms query response</li>
           <li><b>65%</b> hiring efficiency boost</li>
         </ul>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.icons8.com/ios-filled/50/000000/news.png" width="60" />
-        <h3>📰 Headline-Sentiment</h3>
-        <p><img src="https://img.shields.io/badge/Status-Active-4CAF50?style=flat-square" /></p>
-        <div>
-          <img src="https://img.shields.io/badge/NLP-5A67D8?style=flat-square"/>
-          <img src="https://img.shields.io/badge/Transformers-FF4F8B?style=flat-square"/>
-          <img src="https://img.shields.io/badge/Data_Viz-FFBE0B?style=flat-square"/>
-        </div>
+      </details>
+      <br>
+      <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=flat-square&labelColor=black"/>
+    </td>
+    <td width="33%" align="center">
+      <a name="headlinesentiment"></a>
+      <img src="https://img.icons8.com/ios-filled/50/000000/news.png" width="60"/>
+      <h3>📰 Headline-Sentiment</h3>
+      <div>
+        <img src="https://img.shields.io/badge/NLP-5A67D8?style=flat-square&labelColor=black"/>
+        <img src="https://img.shields.io/badge/Transformers-FF4F8B?style=flat-square&labelColor=black"/>
+        <img src="https://img.shields.io/badge/Data_Viz-FFBE0B?style=flat-square&labelColor=black"/>
+      </div>
+      <details>
+        <summary><b>View Project Details</b></summary>
         <ul align="left">
           <li>5,000+ headlines processed</li>
           <li>Interactive sentiment dashboard</li>
           <li>Streaming data pipeline</li>
         </ul>
-      </td>
-    </tr>
-  </table>
+      </details>
+      <br>
+      <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=flat-square&labelColor=black"/>
+    </td>
+  </tr>
+</table>
 </div>
 
 ## 🔍 Recent Focus Areas
