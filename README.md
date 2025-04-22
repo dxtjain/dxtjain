@@ -96,82 +96,68 @@
 
 ## 🚀 Featured Projects
 
-<div align="center" style="margin-top: 10px;">
+<!-- MuscleAI -->
+<div align="center">
+  
+  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-fitness-gym-flaticons-flat-flat-icons-2.png" width="60" />
+  <h3>🏋️ <b>MuscleAI</b></h3>
+  <p>
+    <b style="color:#4CAF50;">AI-powered fitness assistant</b><br>
+    <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Computer_Vision-0078D7?style=flat-square"/>
+    <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square"/>
+  </p>
+  <ul align="left" style="display:inline-block;text-align:left;margin:0 auto;">
+    <li><b>87%</b> accuracy in posture detection</li>
+    <li><b>40%</b> reduction in injury risk</li>
+    <li><b>35%</b> increase in engagement</li>
+  </ul>
+  <br>
+  <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=for-the-badge" />
+</div>
 
-<!-- Modern Card Layout for Projects -->
-<table>
-  <tr>
-    <!-- MuscleAI Card -->
-    <td width="32%" align="center" style="vertical-align:top; border-radius: 12px; border: 1px solid #22232b; background: #181a22; padding: 20px; margin: 10px;">
-      <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-fitness-gym-flaticons-flat-flat-icons-2.png" width="60" alt="MuscleAI Icon"/>
-      <br>
-      <b style="font-size:1.25em;">🏋️ MuscleAI</b>
-      <br>
-      <span style="color:#4CAF50; font-weight:bold;">AI-powered fitness assistant</span>
-      <br>
-      <span>
-        <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Computer_Vision-0078D7?style=flat-square"/>
-        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square"/>
-      </span>
-      <ul align="left" style="margin: 10px 0 0 0;">
-        <li><b>87%</b> accuracy in posture detection</li>
-        <li><b>40%</b> reduction in injury risk</li>
-        <li><b>35%</b> increase in engagement</li>
-      </ul>
-      <span>
-        <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=for-the-badge" alt="Status"/>
-      </span>
-    </td>
+---
 
-    <!-- ResuMatch AI Card -->
-    <td width="32%" align="center" style="vertical-align:top; border-radius: 12px; border: 1px solid #22232b; background: #181a22; padding: 20px; margin: 10px;">
-      <img src="https://img.icons8.com/ios-filled/50/000000/resume-website.png" width="60" alt="ResuMatch Icon"/>
-      <br>
-      <b style="font-size:1.25em;">📄 ResuMatch AI</b>
-      <br>
-      <span style="color:#FF9900; font-weight:bold;">LLM-powered resume-job matcher</span>
-      <br>
-      <span>
-        <img src="https://img.shields.io/badge/LLM_Fine--tuning-FF9900?style=flat-square"/>
-        <img src="https://img.shields.io/badge/RAG-7952B3?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Vector_DB-4B32C3?style=flat-square"/>
-      </span>
-      <ul align="left" style="margin: 10px 0 0 0;">
-        <li><b>92%</b> skill-job match relevance</li>
-        <li>Sub-200ms query response</li>
-        <li><b>65%</b> hiring efficiency boost</li>
-      </ul>
-      <span>
-        <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=for-the-badge" alt="Status"/>
-      </span>
-    </td>
+<!-- ResuMatch AI -->
+<div align="center">
+  
+  <img src="https://img.icons8.com/ios-filled/50/000000/resume-website.png" width="60" />
+  <h3>📄 <b>ResuMatch AI</b></h3>
+  <p>
+    <b style="color:#FF9900;">LLM-powered resume-job matcher</b><br>
+    <img src="https://img.shields.io/badge/LLM_Fine--tuning-FF9900?style=flat-square"/>
+    <img src="https://img.shields.io/badge/RAG-7952B3?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Vector_DB-4B32C3?style=flat-square"/>
+  </p>
+  <ul align="left" style="display:inline-block;text-align:left;margin:0 auto;">
+    <li><b>92%</b> skill-job match relevance</li>
+    <li>Sub-200ms query response</li>
+    <li><b>65%</b> hiring efficiency boost</li>
+  </ul>
+  <br>
+  <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=for-the-badge" />
+</div>
 
-    <!-- Headline-Sentiment Card -->
-    <td width="32%" align="center" style="vertical-align:top; border-radius: 12px; border: 1px solid #22232b; background: #181a22; padding: 20px; margin: 10px;">
-      <img src="https://img.icons8.com/ios-filled/50/000000/news.png" width="60" alt="Headline Sentiment Icon"/>
-      <br>
-      <b style="font-size:1.25em;">📰 Headline-Sentiment</b>
-      <br>
-      <span style="color:#FF4F8B; font-weight:bold;">Real-time news sentiment analysis</span>
-      <br>
-      <span>
-        <img src="https://img.shields.io/badge/NLP-5A67D8?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Transformers-FF4F8B?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Data_Viz-FFBE0B?style=flat-square"/>
-      </span>
-      <ul align="left" style="margin: 10px 0 0 0;">
-        <li>5,000+ headlines processed</li>
-        <li>Interactive sentiment dashboard</li>
-        <li>Streaming data pipeline</li>
-      </ul>
-      <span>
-        <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=for-the-badge" alt="Status"/>
-      </span>
-    </td>
-  </tr>
-</table>
+---
 
+<!-- Headline-Sentiment -->
+<div align="center">
+  
+  <img src="https://img.icons8.com/ios-filled/50/000000/news.png" width="60" />
+  <h3>📰 <b>Headline-Sentiment</b></h3>
+  <p>
+    <b style="color:#FF4F8B;">Real-time news sentiment analysis</b><br>
+    <img src="https://img.shields.io/badge/NLP-5A67D8?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Transformers-FF4F8B?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Data_Viz-FFBE0B?style=flat-square"/>
+  </p>
+  <ul align="left" style="display:inline-block;text-align:left;margin:0 auto;">
+    <li>5,000+ headlines processed</li>
+    <li>Interactive sentiment dashboard</li>
+    <li>Streaming data pipeline</li>
+  </ul>
+  <br>
+  <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=for-the-badge" />
 </div>
 
 ## 🔍 Recent Focus Areas
