@@ -115,7 +115,6 @@
       <div>
         <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&labelColor=black"/>
         <img src="https://img.shields.io/badge/Computer_Vision-0078D7?style=flat-square&labelColor=black"/>
-        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&labelColor=black"/>
       </div>
       <br>
       <ul align="left">
