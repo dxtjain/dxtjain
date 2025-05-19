@@ -94,145 +94,261 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px"> Featured Projects
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Project Portfolio</title>
+  <style>
+    body {
+      background-color: #0d1117;
+      color: #f0f6fc;
+      font-family: 'Segoe UI', Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+    }
 
-<!-- Clean, modern project section with uniform design -->
-<div style="background-color: #0d1117; color: #f0f6fc; padding: 30px 20px; border-radius: 10px; font-family: 'Segoe UI', Arial, sans-serif;">
-  <h2 style="display: flex; align-items: center; margin-bottom: 30px; border-bottom: 1px solid #30363d; padding-bottom: 15px;">
-    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 10px;">
+    .header {
+      display: flex;
+      align-items: center;
+      margin-bottom: 30px;
+      border-bottom: 1px solid #30363d;
+      padding-bottom: 15px;
+    }
+
+    .header svg {
+      margin-right: 10px;
+    }
+
+    .header h1 {
+      font-size: 28px;
+      font-weight: 600;
+      margin: 0;
+    }
+
+    .project-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 20px;
+    }
+
+    .project-card {
+      background-color: #161b22;
+      border-radius: 10px;
+      padding: 25px;
+      border: 1px solid #30363d;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+    .project-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+    }
+
+    .project-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 15px;
+    }
+
+    .project-title {
+      display: flex;
+      align-items: center;
+    }
+
+    .icon-box {
+      background-color: #333;
+      padding: 8px;
+      border-radius: 8px;
+      margin-right: 10px;
+    }
+
+    .badge {
+      background-color: #238636;
+      color: white;
+      font-size: 12px;
+      padding: 4px 8px;
+      border-radius: 20px;
+    }
+
+    .project-type {
+      background-color: #0d1117;
+      border-radius: 8px;
+      padding: 10px;
+      margin-bottom: 15px;
+      display: inline-block;
+    }
+
+    .project-type span {
+      font-weight: 500;
+    }
+
+    .icon-container {
+      text-align: center;
+      margin: 20px 0;
+    }
+
+    .tech-stack {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 20px;
+    }
+
+    .tech-badge {
+      background-color: #1a202c;
+      font-size: 12px;
+      padding: 4px 10px;
+      border-radius: 4px;
+    }
+
+    .feature-list {
+      list-style: none;
+      padding: 0;
+      margin-bottom: 20px;
+    }
+
+    .feature-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 12px;
+    }
+
+    .feature-icon {
+      margin-right: 10px;
+    }
+
+    .button {
+      display: inline-block;
+      background-color: #238636;
+      color: white;
+      text-decoration: none;
+      padding: 8px 16px;
+      border-radius: 6px;
+      font-size: 14px;
+      font-weight: 500;
+      transition: background-color 0.2s;
+    }
+
+    .button:hover {
+      background-color: #2ea043;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
       <polyline points="22 12 18 12 15 21 9 3 6 12 2 12"></polyline>
     </svg>
-    <span style="font-size: 28px; font-weight: 600;">Featured Projects</span>
-  </h2>
+    <h1>Featured Projects</h1>
+  </div>
 
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
-    <!-- MuscleAI Project Card -->
-    <div style="background-color: #161b22; border-radius: 10px; padding: 25px; border: 1px solid #30363d;">
-      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
-        <div style="display: flex; align-items: center;">
-          <span style="background-color: #333; padding: 8px; border-radius: 8px; margin-right: 10px;">🏋️</span>
-          <h3 style="margin: 0; font-size: 20px; font-weight: 600;">MuscleAI</h3>
+  <div class="project-grid">
+    <!-- MuscleAI -->
+    <div class="project-card">
+      <div class="project-header">
+        <div class="project-title">
+          <span class="icon-box">🏋️</span>
+          <h3>MuscleAI</h3>
         </div>
-        <span style="background-color: #238636; color: white; font-size: 12px; padding: 4px 8px; border-radius: 20px;">Active</span>
+        <span class="badge">Active</span>
       </div>
-      
-      <div style="background-color: #0d1117; border-radius: 8px; padding: 10px; margin-bottom: 15px; display: inline-block;">
-        <span style="color: #58a6ff; font-weight: 500;">AI-POWERED FITNESS ASSISTANT</span>
+
+      <div class="project-type">
+        <span style="color: #58a6ff;">AI-POWERED FITNESS ASSISTANT</span>
       </div>
-      
-      <div style="text-align: center; margin: 20px 0;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Lifting%20Weights.png" alt="Fitness" width="70px">
+
+      <div class="icon-container">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Lifting%20Weights.png" alt="Fitness" width="70">
       </div>
-      
-      <div style="display: flex; gap: 8px; margin-bottom: 20px; flex-wrap: wrap;">
-        <span style="background-color: #1a202c; color: #00FFFF; font-size: 12px; padding: 4px 10px; border-radius: 4px;">YOLOv8</span>
-        <span style="background-color: #1a202c; color: #0078D7; font-size: 12px; padding: 4px 10px; border-radius: 4px;">Computer Vision</span>
+
+      <div class="tech-stack">
+        <span class="tech-badge" style="color: #00FFFF;">YOLOv8</span>
+        <span class="tech-badge" style="color: #0078D7;">Computer Vision</span>
       </div>
-      
-      <ul style="list-style-type: none; padding-left: 0; margin-bottom: 20px;">
-        <li style="display: flex; align-items: center; margin-bottom: 12px;">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="20px" style="margin-right: 10px;">
-          <span><strong>87%</strong> accuracy in posture detection</span>
-        </li>
-        <li style="display: flex; align-items: center; margin-bottom: 12px;">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="20px" style="margin-right: 10px;">
-          <span><strong>40%</strong> reduction in injury risk</span>
-        </li>
-        <li style="display: flex; align-items: center;">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="20px" style="margin-right: 10px;">
-          <span><strong>35%</strong> increase in engagement</span>
-        </li>
+
+      <ul class="feature-list">
+        <li class="feature-item"><img class="feature-icon" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="20"><span><strong>87%</strong> accuracy in posture detection</span></li>
+        <li class="feature-item"><img class="feature-icon" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="20"><span><strong>40%</strong> reduction in injury risk</span></li>
+        <li class="feature-item"><img class="feature-icon" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="20"><span><strong>35%</strong> increase in engagement</span></li>
       </ul>
-      
-      <a href="#" style="display: inline-block; background-color: #238636; color: white; text-decoration: none; padding: 8px 16px; border-radius: 6px; font-size: 14px; font-weight: 500;">View Project</a>
+
+      <a href="#" class="button">View Project</a>
     </div>
 
-    <!-- ResuMatch AI Project Card -->
-    <div style="background-color: #161b22; border-radius: 10px; padding: 25px; border: 1px solid #30363d;">
-      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
-        <div style="display: flex; align-items: center;">
-          <span style="background-color: #333; padding: 8px; border-radius: 8px; margin-right: 10px;">📄</span>
-          <h3 style="margin: 0; font-size: 20px; font-weight: 600;">ResuMatch AI</h3>
+    <!-- ResuMatch AI -->
+    <div class="project-card">
+      <div class="project-header">
+        <div class="project-title">
+          <span class="icon-box">📄</span>
+          <h3>ResuMatch AI</h3>
         </div>
-        <span style="background-color: #238636; color: white; font-size: 12px; padding: 4px 8px; border-radius: 20px;">Active</span>
+        <span class="badge">Active</span>
       </div>
-      
-      <div style="background-color: #0d1117; border-radius: 8px; padding: 10px; margin-bottom: 15px; display: inline-block;">
-        <span style="color: #FF9F1C; font-weight: 500;">LLM-POWERED RESUME-JOB MATCHER</span>
+
+      <div class="project-type">
+        <span style="color: #FF9F1C;">LLM-POWERED RESUME-JOB MATCHER</span>
       </div>
-      
-      <div style="text-align: center; margin: 20px 0;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" alt="Resume" width="70px">
+
+      <div class="icon-container">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" alt="Resume" width="70">
       </div>
-      
-      <div style="display: flex; gap: 8px; margin-bottom: 20px; flex-wrap: wrap;">
-        <span style="background-color: #1a202c; color: #FF9900; font-size: 12px; padding: 4px 10px; border-radius: 4px;">LLM Fine-tuning</span>
-        <span style="background-color: #1a202c; color: #7952B3; font-size: 12px; padding: 4px 10px; border-radius: 4px;">RAG</span>
-        <span style="background-color: #1a202c; color: #4B32C3; font-size: 12px; padding: 4px 10px; border-radius: 4px;">Vector DB</span>
+
+      <div class="tech-stack">
+        <span class="tech-badge" style="color: #FF9900;">LLM Fine-tuning</span>
+        <span class="tech-badge" style="color: #7952B3;">RAG</span>
+        <span class="tech-badge" style="color: #4B32C3;">Vector DB</span>
       </div>
-      
-      <ul style="list-style-type: none; padding-left: 0; margin-bottom: 20px;">
-        <li style="display: flex; align-items: center; margin-bottom: 12px;">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="20px" style="margin-right: 10px;">
-          <span><strong>92%</strong> skill-job match relevance</span>
-        </li>
-        <li style="display: flex; align-items: center; margin-bottom: 12px;">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="20px" style="margin-right: 10px;">
-          <span><strong>Sub-200ms</strong> query response</span>
-        </li>
-        <li style="display: flex; align-items: center;">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="20px" style="margin-right: 10px;">
-          <span><strong>65%</strong> hiring efficiency boost</span>
-        </li>
+
+      <ul class="feature-list">
+        <li class="feature-item"><img class="feature-icon" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="20"><span><strong>92%</strong> skill-job match relevance</span></li>
+        <li class="feature-item"><img class="feature-icon" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="20"><span><strong>Sub-200ms</strong> query response</span></li>
+        <li class="feature-item"><img class="feature-icon" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="20"><span><strong>65%</strong> hiring efficiency boost</span></li>
       </ul>
-      
-      <a href="#" style="display: inline-block; background-color: #238636; color: white; text-decoration: none; padding: 8px 16px; border-radius: 6px; font-size: 14px; font-weight: 500;">View Project</a>
+
+      <a href="#" class="button">View Project</a>
     </div>
 
-    <!-- StockSense Analyzer Project Card -->
-    <div style="background-color: #161b22; border-radius: 10px; padding: 25px; border: 1px solid #30363d;">
-      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
-        <div style="display: flex; align-items: center;">
-          <span style="background-color: #333; padding: 8px; border-radius: 8px; margin-right: 10px;">📊</span>
-          <h3 style="margin: 0; font-size: 20px; font-weight: 600;">StockSense Analyzer</h3>
+    <!-- StockSense Analyzer -->
+    <div class="project-card">
+      <div class="project-header">
+        <div class="project-title">
+          <span class="icon-box">📊</span>
+          <h3>StockSense Analyzer</h3>
         </div>
-        <span style="background-color: #238636; color: white; font-size: 12px; padding: 4px 8px; border-radius: 20px;">Active</span>
+        <span class="badge">Active</span>
       </div>
-      
-      <div style="background-color: #0d1117; border-radius: 8px; padding: 10px; margin-bottom: 15px; display: inline-block;">
-        <span style="color: #4DA6FF; font-weight: 500;">AI-POWERED FINANCIAL ANALYTICS</span>
+
+      <div class="project-type">
+        <span style="color: #4DA6FF;">AI-POWERED FINANCIAL ANALYTICS</span>
       </div>
-      
-      <div style="text-align: center; margin: 20px 0;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Stock Chart" width="70px">
+
+      <div class="icon-container">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Stock Chart" width="70">
       </div>
-      
-      <div style="display: flex; gap: 8px; margin-bottom: 20px; flex-wrap: wrap;">
-        <span style="background-color: #1a202c; color: #3776AB; font-size: 12px; padding: 4px 10px; border-radius: 4px;">Python</span>
-        <span style="background-color: #1a202c; color: #4DA6FF; font-size: 12px; padding: 4px 10px; border-radius: 4px;">LangChain</span>
-        <span style="background-color: #1a202c; color: #FF5A5F; font-size: 12px; padding: 4px 10px; border-radius: 4px;">Groq LLM</span>
-        <span style="background-color: #1a202c; color: #FF4B4B; font-size: 12px; padding: 4px 10px; border-radius: 4px;">Streamlit</span>
+
+      <div class="tech-stack">
+        <span class="tech-badge" style="color: #3776AB;">Python</span>
+        <span class="tech-badge" style="color: #4DA6FF;">LangChain</span>
+        <span class="tech-badge" style="color: #FF5A5F;">Groq LLM</span>
+        <span class="tech-badge" style="color: #FF4B4B;">Streamlit</span>
       </div>
-      
-      <ul style="list-style-type: none; padding-left: 0; margin-bottom: 20px;">
-        <li style="display: flex; align-items: center; margin-bottom: 12px;">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="20px" style="margin-right: 10px;">
-          <span><strong>Natural language</strong> stock data querying</span>
-        </li>
-        <li style="display: flex; align-items: center; margin-bottom: 12px;">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="20px" style="margin-right: 10px;">
-          <span><strong>Interactive</strong> sector-based visualizations</span>
-        </li>
-        <li style="display: flex; align-items: center;">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="20px" style="margin-right: 10px;">
-          <span><strong>65%</strong> faster market analysis</span>
-        </li>
+
+      <ul class="feature-list">
+        <li class="feature-item"><img class="feature-icon" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="20"><span><strong>Natural language</strong> stock data querying</span></li>
+        <li class="feature-item"><img class="feature-icon" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="20"><span><strong>Interactive</strong> sector-based visualizations</span></li>
+        <li class="feature-item"><img class="feature-icon" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="20"><span><strong>65%</strong> faster market analysis</span></li>
       </ul>
-      
-      <a href="https://github.com/dxtjain/StockSense-Analyzer" style="display: inline-block; background-color: #238636; color: white; text-decoration: none; padding: 8px 16px; border-radius: 6px; font-size: 14px; font-weight: 500;">View on GitHub</a>
+
+      <a href="https://github.com/dxtjain/StockSense-Analyzer" class="button">View on GitHub</a>
     </div>
   </div>
-</div>
+</body>
+</html>
+
+
 
 ## 🔍 Recent Focus Areas
 
