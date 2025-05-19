@@ -96,6 +96,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30px"> Featured Projects
 
+
 <!-- Animated divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
@@ -145,34 +146,72 @@
       <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=for-the-badge&labelColor=black"/>
     </td>
     <td align="center" width="33%">
-      <a href="#headline">
-        <img src="https://img.shields.io/badge/📰_Headline--Sentiment-Real--time_news_sentiment_analysis-FF4F8B?style=for-the-badge&labelColor=black" alt="Headline-Sentiment"/>
+      <a href="https://github.com/dxtjain/StockSense-Analyzer">
+        <img src="https://img.shields.io/badge/📊_StockSense_Analyzer-AI--powered_financial_analytics-4DA6FF?style=for-the-badge&labelColor=black" alt="StockSense Analyzer"/>
       </a>
       <br><br>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Newspaper.png" width="70px" alt="News"/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="70px" alt="Stock Chart"/>
       <br><br>
       <div>
-        <img src="https://img.shields.io/badge/NLP-5A67D8?style=flat-square&labelColor=black"/>
-        <img src="https://img.shields.io/badge/Transformers-FF4F8B?style=flat-square&labelColor=black"/>
-        <img src="https://img.shields.io/badge/Data_Viz-FFBE0B?style=flat-square&labelColor=black"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&labelColor=black"/>
+        <img src="https://img.shields.io/badge/LangChain-4DA6FF?style=flat-square&labelColor=black"/>
+        <img src="https://img.shields.io/badge/Groq_LLM-FF5A5F?style=flat-square&labelColor=black"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&labelColor=black"/>
       </div>
       <br>
       <ul align="left">
-        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="20px"> <b>5,000+</b> headlines processed</li>
-        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="20px"> <b>Interactive</b> sentiment dashboard</li>
-        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Repeat%20Button.png" width="20px"> <b>Streaming</b> data pipeline</li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="20px"> <b>Natural language</b> stock data querying</li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="20px"> <b>Interactive</b> sector-based visualizations</li>
+        <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="20px"> <b>65%</b> faster market analysis</li>
       </ul>
-      <img src="https://img.shields.io/badge/Status-Active-4CAF50?style=for-the-badge&labelColor=black"/>
+      <a href="https://github.com/dxtjain/StockSense-Analyzer">
+        <img src="https://img.shields.io/badge/View_on_GitHub-4DA6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=black"/>
+      </a>
     </td>
   </tr>
 </table>
 </div>
 
+<!-- StockSense Analyzer Details Section -->
+<div align="center">
+  <h2>📊 StockSense Analyzer</h2>
+  <p>Professional financial analytics platform for stock market analysis using natural language queries powered by AI</p>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+    <img src="https://img.shields.io/badge/LangChain-4DA6FF?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+    <img src="https://img.shields.io/badge/Groq_LLM-FF5A5F?style=for-the-badge&logo=openai&logoColor=white" alt="Groq"/>
+  </p>
+  
+  <table>
+    <tr>
+      <td width="60%">
+        <h3>Key Features</h3>
+        <ul align="left">
+          <li>🔍 <b>Natural Language Queries</b>: Ask questions about stock data in plain English</li>
+          <li>📈 <b>Interactive Dashboard</b>: Visualize market trends and sector performance</li>
+          <li>🧠 <b>AI-Powered Analysis</b>: Get instant insights from Groq LLM</li>
+          <li>🔎 <b>Data Explorer</b>: Filter and analyze stock data with an intuitive interface</li>
+          <li>🎨 <b>Modern UI/UX</b>: Clean, responsive interface built with Streamlit</li>
+        </ul>
+      </td>
+      <td width="40%" align="center">
+        <img src="https://github.com/dxtjain/StockSense-Analyzer/raw/master/banner.svg" alt="StockSense Banner" width="100%">
+        <p align="center"><i>Professional stock market data analysis</i></p>
+      </td>
+    </tr>
+  </table>
+  
+  <a href="https://github.com/dxtjain/StockSense-Analyzer">
+    <img src="https://img.shields.io/badge/View_Project_Repository-4DA6FF?style=for-the-badge&logo=github&logoColor=white&labelColor=black"/>
+  </a>
+</div>
+
 <!-- Animated bottom divider -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 </p>
-
 
 ## 🔍 Recent Focus Areas
 
