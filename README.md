@@ -231,25 +231,121 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <!-- Profile details card -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dxtjain&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="355px" />
+  
+  <!-- Top Languages Card with correct URL and cache control -->
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dxtjain&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&cache_seconds=1800" 
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dxtjain&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&cache_seconds=1800"
+      media="(prefers-color-scheme: light)"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxtjain&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&cache_seconds=1800" 
+      alt="Top Languages" 
+      width="355px"
+    />
+  </picture>
   
   <br><br>
 
-  <!-- Two cards side by side with fixed width -->
-  <p>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dxtjain&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165px" />
-    <img src="https://streak-stats.demolab.com/?user=dxtjain&theme=radical&hide_border=true" alt="GitHub Streak" height="165px" />
-  </p>
+  <!-- GitHub Stats and Streak with proper URLs and alignment -->
+  <div align="center">
+    <picture>
+      <source 
+        srcset="https://github-readme-stats.vercel.app/api?username=dxtjain&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" 
+        media="(prefers-color-scheme: dark)"
+      />
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=dxtjain&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" 
+        alt="GitHub Stats" 
+        height="165px"
+      />
+    </picture>
+    <picture>
+      <source 
+        srcset="https://streak-stats.demolab.com/?user=dxtjain&theme=radical&hide_border=true&cache_seconds=1800" 
+        media="(prefers-color-scheme: dark)"
+      />
+      <img 
+        src="https://streak-stats.demolab.com/?user=dxtjain&theme=radical&hide_border=true&cache_seconds=1800" 
+        alt="GitHub Streak" 
+        height="165px"
+      />
+    </picture>
+  </div>
+
+  <br>
+
+  <!-- Activity Graph (New Addition) -->
+  <picture>
+    <source 
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=dxtjain&bg_color=0d1117&color=e4a853&line=e4a853&point=e4a853&area=true&hide_border=true&cache_seconds=1800" 
+      media="(prefers-color-scheme: dark)"
+    />
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=dxtjain&bg_color=0d1117&color=e4a853&line=e4a853&point=e4a853&area=true&hide_border=true&cache_seconds=1800" 
+      alt="GitHub Activity Graph" 
+      width="100%"
+    />
+  </picture>
+
 </div>
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <!-- Alternative trophy display -->
-  <img src="https://github-trophies.vercel.app/?username=dxtjain&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="GitHub Trophies" />
+  
+  <!-- Corrected Trophy Service URL -->
+  <picture>
+    <source 
+      srcset="https://github-profile-trophy.vercel.app/?username=dxtjain&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&cache_seconds=1800" 
+      media="(prefers-color-scheme: dark)"
+    />
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=dxtjain&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&cache_seconds=1800" 
+      alt="GitHub Trophies" 
+      width="100%"
+    />
+  </picture>
+
 </div>
 
+<!-- Animated Footer (Same as yours) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24,30&height=120&section=footer&animation=fadeIn" width="100%"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24,30&height=120&section=footer&animation=fadeIn" 
+    width="100%"
+    alt="Footer Animation"
+  />
+</div>
+
+---
+
+## 🚀 Force Refresh URLs (Use when stats aren't updating)
+
+**Click these links to force refresh your stats:**
+
+1. **GitHub Stats**: https://github-readme-stats.vercel.app/api?username=dxtjain&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=0
+
+2. **Language Stats**: https://github-readme-stats.vercel.app/api/top-langs/?username=dxtjain&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=0
+
+3. **Streak Stats**: https://streak-stats.demolab.com/?user=dxtjain&theme=radical&hide_border=true&cache_seconds=0
+
+4. **Activity Graph**: https://github-readme-activity-graph.vercel.app/graph?username=dxtjain&bg_color=0d1117&color=e4a853&line=e4a853&point=e4a853&area=true&hide_border=true&cache_seconds=0
+
+---
+
+## 📝 Alternative Compact Version
+
+If you prefer a simpler layout:
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dxtjain&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=dxtjain&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dxtjain&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
