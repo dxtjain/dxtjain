@@ -253,3 +253,51 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24,30&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
+
+
+## 📊 **Cosmic Code Metrics**
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=souvik03-136&theme=radical" width="100%" alt="GitHub Profile Summary">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=souvik03-136&theme=radical&hide_border=true" width="49%" alt="GitHub Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=souvik03-136&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvik03-136&layout=compact&theme=radical&hide_border=true&langs_count=8" width="43%" alt="Top Languages">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=souvik03-136&theme=radical&hide_border=true&custom_title=Contribution%20Galaxy&radius=5" width="55%" alt="Activity Graph">
+</div>
+
+<br>
+
+## 🏆 **Achievement Constellation**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=souvik03-136&theme=radical&no-frame=true&column=4&row=2" alt="GitHub Trophies">
+</div>
+
+<br>
+
+## 🔮 **Quantum Quote**
+
+<div align="center">
+  
+> "I transform complex problems into elegant solutions by combining AI, security, and scalable architecture."
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=80" width="100%">
+  
+  <br>
+  
+  ![Visitors](https://komarev.com/ghpvc/?username=souvik03-136&color=00F72D&style=flat-square)
+  [![GitHub Stars](https://img.shields.io/github/stars/souvik03-136?color=00F72D&logo=github&style=flat-square)](https://github.com/souvik03-136)
+  
+  <sub><sup>Last updated: April 2025</sup></sub>
+</div>
