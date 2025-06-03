@@ -231,20 +231,6 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <!-- Profile details card -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dxtjain&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="355px" />
-  
-  <br><br>
-  
-
-  <!-- Two cards side by side with fixed width -->
-  <p>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dxtjain&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165px" />
-    <img src="https://streak-stats.demolab.com/?user=dxtjain&theme=radical&hide_border=true" alt="GitHub Streak" height="165px" />
-  </p>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dxtjain&theme=radical&hide_border=true" width="49%" alt="GitHub Streak Stats">
   <img src="https://github-readme-stats.vercel.app/api?username=dxtjain&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats">
 </div>
@@ -296,8 +282,5 @@
   
   <br>
   
-  ![Visitors](https://komarev.com/ghpvc/?username=souvik03-136&color=00F72D&style=flat-square)
-  [![GitHub Stars](https://img.shields.io/github/stars/souvik03-136?color=00F72D&logo=github&style=flat-square)](https://github.com/souvik03-136)
-  
-  <sub><sup>Last updated: April 2025</sup></sub>
+  <sub><sup>Last updated: June 2025</sup></sub>
 </div>
