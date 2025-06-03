@@ -252,16 +252,16 @@
   <img src="https://github-trophies.vercel.app/?username=dxtjain&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="GitHub Trophies" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=80" width="100%">
-</div>
-
 <br>
 
 <div align="center">
   
 > "I transform complex problems into elegant solutions by combining AI, security, and scalable architecture."
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=80" width="100%">
 </div>
 
 <br>
