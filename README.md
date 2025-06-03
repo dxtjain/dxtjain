@@ -251,8 +251,11 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24,30&height=120&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=80" width="100%">
 </div>
+
+
+
 
 
 ## 📊 **Cosmic Code Metrics**
@@ -262,26 +265,17 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=souvik03-136&theme=radical&hide_border=true" width="49%" alt="GitHub Streak Stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=souvik03-136&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dxtjain&theme=radical&hide_border=true" width="49%" alt="GitHub Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=dxtjain&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvik03-136&layout=compact&theme=radical&hide_border=true&langs_count=8" width="43%" alt="Top Languages">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=souvik03-136&theme=radical&hide_border=true&custom_title=Contribution%20Galaxy&radius=5" width="55%" alt="Activity Graph">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxtjain&layout=compact&theme=radical&hide_border=true&langs_count=8" width="43%" alt="Top Languages">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dxtjain&theme=radical&hide_border=true&custom_title=Contribution%20Galaxy&radius=5" width="55%" alt="Activity Graph">
 </div>
 
 <br>
 
-## 🏆 **Achievement Constellation**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=souvik03-136&theme=radical&no-frame=true&column=4&row=2" alt="GitHub Trophies">
-</div>
-
-<br>
-
-## 🔮 **Quantum Quote**
 
 <div align="center">
   
