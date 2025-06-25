@@ -10,7 +10,7 @@
   </p>
 </div>
 
-<h2 align="center">Building Intelligent Systems for Real-World Problems</h2>
+<h2 align="center">Building intelligent systems | AI, LLMs, Full Stack | Open to collaboration</h2>
 
 ## 💫 About Me
 
@@ -19,7 +19,7 @@
     <tr>
       <td width="60%" valign="top">
         <p align="left">
-          I'm an AI/ML specialist with expertise in building intelligent systems that solve real business challenges. My focus areas include LLM fine-tuning, RAG systems architecture, computer vision, and full-stack development.
+          I build AI-first systems, including LLM agents and real-time pipelines. Passionate about solving real-world problems with practical AI/ML applications.
         </p>
         <ul align="left">
           <li>🔬 Expert in <b>LLM Fine-tuning</b>, <b>RAG Systems</b>, and <b>AI Integration</b></li>
@@ -172,8 +172,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 </p>
 
-## 🔍 Recent Focus Areas
-
+## 🔍 Deep Diving Into
 <div align="center">
   <p>
     <a href="#"><img src="https://img.shields.io/badge/🚀_LLM_Reasoning_Augmentation-Enhancing_models_with_structured_reasoning_frameworks-5865F2?style=for-the-badge" alt="Reasoning"/></a>
