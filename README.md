@@ -22,6 +22,7 @@
           I'm passionate about merging creativity with cutting-edge AI to build systems that matter. Whether it's reasoning-augmented agents, scalable retrieval systems, or production-grade ML infrastructure — I build to solve.
         </p>
         <ul align="left">
+          <div align="left"> <h3>🎯 What I Do</h3> <ul>
           <li>🧠 I specialize in <b>LLMs, RAG Systems, and Agentic AI Workflows</b></li>
           <li>🛠️ I build <b>real-time AI pipelines</b> and <b>LLM-based applications</b> from prototype to production</li>
           <li>📈 I care deeply about performance, cost optimization, and human-centric AI design</li>
@@ -101,6 +102,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 </p>
 
+
+## 🎯 Featured Projects
+
 <!-- Project cards with hover effect -->
 <div align="center">
 <table>
@@ -173,7 +177,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 </p>
 
-## 🔍 Deep Diving Into
+## 🔬 Current Research & Explorations
+
 <div align="center">
   <p>
     <a href="#"><img src="https://img.shields.io/badge/🚀_LLM_Reasoning_Augmentation-Enhancing_models_with_structured_reasoning_frameworks-5865F2?style=for-the-badge" alt="Reasoning"/></a>
@@ -255,10 +260,13 @@
 <br>
 
 <div align="center">
-  
-> "I transform complex problems into elegant solutions by combining AI, security, and scalable architecture."
 
-</div>
+<div align="center">
+
+### 💡 "Open to collaborating on innovative AI projects that push the boundaries of what's possible.
+"
+
+<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,19,24,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=80" width="100%">
