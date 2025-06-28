@@ -19,13 +19,13 @@
     <tr>
       <td width="60%" valign="top">
         <p align="left">
-          I build AI-first systems, including LLM agents and real-time pipelines. Passionate about solving real-world problems with practical AI/ML applications.
+          I'm passionate about merging creativity with cutting-edge AI to build systems that matter. Whether it's reasoning-augmented agents, scalable retrieval systems, or production-grade ML infrastructure — I build to solve.
         </p>
         <ul align="left">
-          <li>🔬 Expert in <b>LLM Fine-tuning</b>, <b>RAG Systems</b>, and <b>AI Integration</b></li>
-          <li>🚀 Specialized in <b>production-grade ML systems</b> with robust evaluation</li>
-          <li>📊 Dedicated to building AI solutions with <b>measurable business impact</b></li>
-          <li>🌱 Advocate for leveraging AI in <b>sustainability initiatives</b></li>
+          <li>🧠 I specialize in <b>LLMs, RAG Systems, and Agentic AI Workflows</b></li>
+          <li>🛠️ I build <b>real-time AI pipelines</b> and <b>LLM-based applications</b> from prototype to production</li>
+          <li>📈 I care deeply about performance, cost optimization, and human-centric AI design</li>
+          <li>🌍 Always looking to apply AI towards impactful domains like <b>health, education, and sustainability</b></li>
         </ul>
       </td>
       <td width="40%" align="center">
@@ -34,6 +34,7 @@
     </tr>
   </table>
 </div>
+
 
 ## 🌐 Connect With Me
 
@@ -44,61 +45,55 @@
   <a href="https://www.linkedin.com/in/dixitjain108/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/idixitjain" target="_blank">
+  <a href="https://github.com/idxtjain" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4361ee?style=for-the-badge&logo=react&logoColor=white"/>
-  </a>
+  
 </div>
 
 ## 🧠 My Tech Stack
 
 ### 💻 Programming Languages & Frameworks  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 ---
 
 ### 🤖 AI & Machine Learning  
 ![LangChain](https://img.shields.io/badge/LangChain-1C8D73?style=flat&logo=langchain&logoColor=white)
 ![LLaMA Models](https://img.shields.io/badge/LLaMA%20Models-7B61FF?style=flat&logo=llama&logoColor=white)
-![OpenAI GPT](https://img.shields.io/badge/OpenAI%20GPT-6E6DEF?style=flat&logo=openai&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-6E6DEF?style=flat&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-FF4F8B?style=flat&logo=groq&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-E37222?style=flat&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=flat&logo=huggingface&logoColor=black)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
-
----
-
-### 🔎 RAG & Vector Databases  
 ![RAG Systems](https://img.shields.io/badge/RAG%20Systems-7531FF?style=flat&logo=data&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-4E4FEB?style=flat&logo=pinecone&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-6B4EFF?style=flat&logo=weaviate&logoColor=white)
-![Milvus](https://img.shields.io/badge/Milvus-22C5E4?style=flat&logo=milvus&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-E40066?style=flat&logo=qdrant&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-AC5EE3?style=flat&logo=faiss&logoColor=white)
-![Chroma](https://img.shields.io/badge/Chroma-802DE6?style=flat&logo=chroma&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 
 ---
 
 ### 🛠 Dev Tools & Cloud Platforms  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+### 🧠 Bonus: What I'm Learning & Experimenting With
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-000000?style=flat&logo=ai&logoColor=white)
+![Real-time Embedding Pipelines](https://img.shields.io/badge/Real--time_Embedding-4E5EE4?style=flat&logo=processingfoundation&logoColor=white)
+![Multi-Modal ML](https://img.shields.io/badge/Multi--Modal_AI-FFA500?style=flat&logo=openai&logoColor=black)
+![Self-hosted LLMs](https://img.shields.io/badge/Self--hosted_LLMs-7B68EE?style=flat&logo=ubuntu&logoColor=white)
 
 
 <!-- Animated bottom divider -->
