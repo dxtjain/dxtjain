@@ -264,8 +264,6 @@
 <div align="center">
 
 ### 💡 "Open to collaborating on innovative AI projects that push the boundaries of what's possible.
-"
-
 <br>
 
 <div align="center">
