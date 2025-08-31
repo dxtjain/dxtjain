@@ -304,38 +304,19 @@
 
 <br>
 
-<!-- Professional focus areas with visual indicators -->
+<!-- Better focus areas display -->
 <div align="center">
-  <h3>🎯 Development Focus Areas</h3>
+  <h3>🎯 Development Focus</h3>
   
-  <table border="0" cellspacing="0" cellpadding="8">
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="40"/>
-        <br><strong>AI/ML Engineering</strong>
-        <br><span style="color: #58a6ff;">Primary Focus</span>
-        <br><code>████████████████████ 90%</code>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="40"/>
-        <br><strong>LLM & RAG Systems</strong>
-        <br><span style="color: #1f6feb;">Core Expertise</span>
-        <br><code>██████████████████   85%</code>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="40"/>
-        <br><strong>Full Stack Dev</strong>
-        <br><span style="color: #f0883e;">Secondary</span>
-        <br><code>███████████████      75%</code>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="40"/>
-        <br><strong>Research & Innovation</strong>
-        <br><span style="color: #da3633;">Passion</span>
-        <br><code>██████████████████   80%</code>
-      </td>
-    </tr>
-  </table>
+  <p>
+    <img src="https://img.shields.io/badge/🧠_AI/ML_Engineering-Primary_Focus-58a6ff?style=for-the-badge&logo=brain&logoColor=white&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/🤖_LLM_&_RAG_Systems-Core_Expertise-1f6feb?style=for-the-badge&logo=robot&logoColor=white&labelColor=0d1117"/>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/🌐_Full_Stack_Development-Secondary-f0883e?style=for-the-badge&logo=code&logoColor=white&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/🚀_Research_&_Innovation-Passion-da3633?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117"/>
+  </p>
+  
 </div>
 
 <br>
@@ -354,10 +335,11 @@
 
 <br>
 
-<!-- Clean trophy display with GitHub's native styling -->
+## 🏆 GitHub Achievements
+
 <div align="center">
-  <h3>🏆 GitHub Achievements</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=dxtjain&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=1&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies"/>
+  <!-- Alternative trophy display -->
+  <img src="https://github-trophies.vercel.app/?username=dxtjain&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="GitHub Trophies" />
 </div>
 
 <br>
