@@ -233,33 +233,134 @@
   </tr>
 </table>
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics & Impact
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dxtjain&theme=radical&hide_border=true" width="49%" alt="GitHub Streak Stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=dxtjain&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats">
+  <h3>🔥 Development Statistics</h3>
 </div>
 
+<!-- Enhanced stats layout with professional styling -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxtjain&layout=compact&theme=radical&hide_border=true&langs_count=8" width="43%" alt="Top Languages">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dxtjain&theme=radical&hide_border=true&custom_title=Contribution%20Galaxy&radius=5" width="55%" alt="Activity Graph">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" width="50%">
+        <!-- Clean GitHub Stats with authentic data -->
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dxtjain&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true&custom_title=GitHub%20Statistics" alt="GitHub Stats"/>
+      </td>
+      <td align="center" width="50%">
+        <!-- Most Used Languages with cleaner theme -->
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxtjain&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
 
-
+<!-- Professional streak stats with GitHub-native colors -->
 <div align="center">
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <!-- Alternative trophy display -->
-  <img src="https://github-trophies.vercel.app/?username=dxtjain&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=dxtjain&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=58a6ff&dates=c9d1d9&sideLabels=c9d1d9" alt="GitHub Streak"/>
 </div>
 
 <br>
 
+<!-- Authentic contribution graph -->
 <div align="center">
+  <h3>📈 Development Activity</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dxtjain&theme=github-compact&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=1f6feb&area=true&area_color=1f6feb&custom_title=Contribution%20Activity%20-%20Last%2031%20Days" alt="Activity Graph"/>
+</div>
+
+<br>
+
+<!-- Professional metrics display -->
+<div align="center">
+  <h3>⚡ Development Metrics</h3>
+  
+  <table border="0" cellspacing="0" cellpadding="10">
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Total_Repositories-25+-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Languages_Used-8+-1f6feb?style=for-the-badge&logo=code&logoColor=white&labelColor=0d1117"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Years_Coding-3+-f0883e?style=for-the-badge&logo=calendar&logoColor=white&labelColor=0d1117"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/AI/ML_Projects-15+-da3633?style=for-the-badge&logo=robot&logoColor=white&labelColor=0d1117"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Open_Source-Contributor-7c3aed?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0d1117"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Profile_Views-1000+-56d364?style=for-the-badge&logo=eye&logoColor=white&labelColor=0d1117"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<!-- Professional focus areas with visual indicators -->
+<div align="center">
+  <h3>🎯 Development Focus Areas</h3>
+  
+  <table border="0" cellspacing="0" cellpadding="8">
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="40"/>
+        <br><strong>AI/ML Engineering</strong>
+        <br><span style="color: #58a6ff;">Primary Focus</span>
+        <br><code>████████████████████ 90%</code>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="40"/>
+        <br><strong>LLM & RAG Systems</strong>
+        <br><span style="color: #1f6feb;">Core Expertise</span>
+        <br><code>██████████████████   85%</code>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="40"/>
+        <br><strong>Full Stack Dev</strong>
+        <br><span style="color: #f0883e;">Secondary</span>
+        <br><code>███████████████      75%</code>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="40"/>
+        <br><strong>Research & Innovation</strong>
+        <br><span style="color: #da3633;">Passion</span>
+        <br><code>██████████████████   80%</code>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<!-- Enhanced contribution summary -->
+<div align="center">
+  <h3>📝 Recent Activity Highlights</h3>
+  
+  <p>
+    <img src="https://img.shields.io/badge/🔹_Active_in-AI/ML_repositories-58a6ff?style=flat-square&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/🔹_Contributing_to-Open_Source_projects-1f6feb?style=flat-square&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/🔹_Building-LLM_applications-f0883e?style=flat-square&labelColor=0d1117"/>
+    <img src="https://img.shields.io/badge/🔹_Researching-GenAI_frameworks-da3633?style=flat-square&labelColor=0d1117"/>
+  </p>
+</div>
+
+<br>
+
+<!-- Clean trophy display with GitHub's native styling -->
+<div align="center">
+  <h3>🏆 GitHub Achievements</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=dxtjain&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=1&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies"/>
+</div>
+
+<br>
 
 <div align="center">
 
