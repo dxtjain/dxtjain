@@ -272,6 +272,47 @@
 
 <br>
 
+<!-- Professional Development Activity Section -->
+<div align="center">
+  <h3>📈 Development Activity</h3>
+  
+  <!-- Enhanced activity graph with professional styling -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dxtjain&theme=github-compact&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&area_color=1f6feb15&custom_title=Development%20Activity%20Timeline&height=300&radius=8&days=90" alt="Development Activity Graph"/>
+</div>
+
+<br>
+
+<!-- Complementary yearly contribution heatmap -->
+<div align="center">
+  <img src="https://ghchart.rshah.org/58a6ff/dxtjain" alt="GitHub Contribution Heatmap" width="100%" />
+</div>
+
+<br>
+
+<!-- Live metrics that update automatically -->
+<div align="center">
+  <h3>⚡ Live Development Metrics</h3>
+  
+  <table border="0" cellspacing="0" cellpadding="8">
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/github/commit-activity/m/dxtjain/AI_trading_assistant?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=58a6ff&label=Monthly%20Commits"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/github/last-commit/dxtjain/AI_trading_assistant?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117&color=56d364&label=Last%20Update"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/github/contributors/dxtjain/AI_trading_assistant?style=for-the-badge&logo=users&logoColor=white&labelColor=0d1117&color=1f6feb&label=Contributors"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/github/repo-size/dxtjain/AI_trading_assistant?style=for-the-badge&logo=database&logoColor=white&labelColor=0d1117&color=f0883e&label=Project%20Size"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <!-- Professional metrics display -->
 <div align="center">
   <h3>⚡ Development Metrics</h3>
