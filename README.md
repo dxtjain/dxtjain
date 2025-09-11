@@ -235,39 +235,9 @@
 
 ## 📊 GitHub Analytics & Impact
 
-<div align="center">
-  <h3>🔥 Development Statistics</h3>
-</div>
-
-<!-- Enhanced stats layout with professional styling -->
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center" width="50%">
-        <!-- Clean GitHub Stats with authentic data -->
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dxtjain&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true&custom_title=GitHub%20Statistics" alt="GitHub Stats"/>
-      </td>
-      <td align="center" width="50%">
-        <!-- Most Used Languages with cleaner theme -->
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxtjain&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
 <!-- Professional streak stats with GitHub-native colors -->
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=dxtjain&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=58a6ff&dates=c9d1d9&sideLabels=c9d1d9" alt="GitHub Streak"/>
-</div>
-
-<br>
-
-<!-- Authentic contribution graph -->
-<div align="center">
-  <h3>📈 Development Activity</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dxtjain&theme=github-compact&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=1f6feb&area=true&area_color=1f6feb&custom_title=Contribution%20Activity%20-%20Last%2031%20Days" alt="Activity Graph"/>
 </div>
 
 <br>
@@ -282,36 +252,6 @@
 
 <br>
 
-<!-- Complementary yearly contribution heatmap -->
-<div align="center">
-  <img src="https://ghchart.rshah.org/58a6ff/dxtjain" alt="GitHub Contribution Heatmap" width="100%" />
-</div>
-
-<br>
-
-<!-- Live metrics that update automatically -->
-<div align="center">
-  <h3>⚡ Live Development Metrics</h3>
-  
-  <table border="0" cellspacing="0" cellpadding="8">
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/github/commit-activity/m/dxtjain/AI_trading_assistant?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=58a6ff&label=Monthly%20Commits"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/github/last-commit/dxtjain/AI_trading_assistant?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117&color=56d364&label=Last%20Update"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/github/contributors/dxtjain/AI_trading_assistant?style=for-the-badge&logo=users&logoColor=white&labelColor=0d1117&color=1f6feb&label=Contributors"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/github/repo-size/dxtjain/AI_trading_assistant?style=for-the-badge&logo=database&logoColor=white&labelColor=0d1117&color=f0883e&label=Project%20Size"/>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <!-- Professional metrics display -->
 <div align="center">
